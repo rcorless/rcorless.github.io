@@ -2,4 +2,4 @@
 
 Let's see how long it takes me to finish the first draft in 2021; it's now 12 February, 2021.
 
-Ok, first thing is that we need a picture.
+Ok, first thing is that we need a picture. ![Image](P1080174.JPG)
