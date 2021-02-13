@@ -7,7 +7,7 @@ Cambridge in November 2019, because she kept running into me at various places i
 Why is this page here?
 My original home page was made when I was on sabbatical at the Centre for Experimental and Constructive Mathematics (www.cecm.sfu.ca) in 1995; 
 my home institution at the time was the University of Western Ontario and I moved all that material to UWO in 1996.  The web page was updated 
-periodically over the decades that followed, finally being pushed to htpps:/publish.uwo.ca/~rcorless, on a server that turns out to be destined 
+periodically over the decades that followed, finally being pushed to https:/publish.uwo.ca/~rcorless, on a server that turns out to be destined 
 for obsolescent oblivion.  Several helpful people have suggested that the Vagabond move to GitHub, so here I am.
 
 The purpose of a personal web page for academics has changed over the decades.  We now have semi-official preprint servers at Google Scholar,
