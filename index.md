@@ -47,7 +47,7 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 </OL>
 
 <H4> Maple Documents and Workbooks and Worksheets for talks </H4>
-A free Maple Player which can read these items is available at https://www.maplesoft.com/products/maple/Mapleplayer/ .
+A free Maple Player which can read these items is available at <A HREF="https://www.maplesoft.com/products/maple/Mapleplayer/"> Mapleplayer </A> .
 <OL>
   <LI> <A HREF="https://github.com/rcorless/rcorless.github.io/blob/main/InverseGammaTalk.mw"> The Functional Inverse of Gamma </A> </LI>
 </OL>
