@@ -42,6 +42,6 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 <H4> Code Repositories for Books and Papers </H4>
 
 <OL>
-  <LI> [Perturbation Methods in Maple](https://github.com/rcorless/Perturbation-Methods-in-Maple) from the ACMES book listed above </LI>
+  <LI> <A HREF="https://github.com/rcorless/Perturbation-Methods-in-Maple">Perturbation Methods in Maple</A> from the ACMES book listed above </LI>
   <LI> <a href="http://www.nfillion.com/coderepository/index.php"> Nic Fillion's code repository for "A Graduate Introduction to Numerical Methods, From the Viewpoint of Backward Error Analysis" </a> </LI>
 </OL>
