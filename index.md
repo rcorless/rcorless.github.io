@@ -35,13 +35,13 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 
 <H4> Books </H4>
 <OL>
-<LI> <a href="https://www.springer.com/us/book/9781493990504"> Algorithms and Complexity in Mathematics, Epistemology and Science </a> An edited volume containing papers from the <a href="http://acmes.org/">Computational Discovery/Computational Epistemology conferences </a></LI>
+<LI> <a href="https://www.springer.com/us/book/9781493990504"> Algorithms and Complexity in Mathematics, Epistemology and Science (ACMES) </a> An edited volume containing papers from the <a href="http://acmes.org/">Computational Discovery/Computational Epistemology conferences </a></LI>
 <LI> <a href="http://www.nfillion.com/">Nic Fillion </a> and I wrote <a href="https://www.springer.com/gp/book/9781461484523">“A Graduate Introduction to Numerical Methods, From the Viewpoint of Backward Error Analysis”</a> together. Here are some excerpts from <a href="http://www.bookmetrix.com/detail_full/book/0b3312d9-f0a9-4fe1-b700-37c52a50220d#reviews"> reviews of the book </a></LI>
 </OL>
 
 <H4> Code Repositories for Books and Papers </H4>
 
 <OL>
-  <LI> </LI>
+  <LI> [Perturbation Methods in Maple](https://github.com/rcorless/Perturbation-Methods-in-Maple) from the ACMES book listed above </LI>
   <LI> <a href="http://www.nfillion.com/coderepository/index.php"> Nic Fillion's code repository for "A Graduate Introduction to Numerical Methods, From the Viewpoint of Backward Error Analysis" </a> </LI>
 </OL>
