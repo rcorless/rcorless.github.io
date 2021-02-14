@@ -2,7 +2,7 @@
 
 See <A HREF="https://www.bohemianmatrices.com"> bohemianmatrices.com </A> for details.  But here's an image, just for a teaser.
 
-![A density plot in the complex plane of the Bohemian eigenvalues of a sample of 73 million 5x5 matrices where the entries are sampled from the set {-20, -1, 0, 1, 20}. Color represents the eigenvalue density. Viewed on -40 <= x,y <= 40](Geometric_5x5.jpg)
+![A density plot in the complex plane of the Bohemian eigenvalues of a sample of 73 million 5x5 matrices where the entries are sampled from the set {-20, -1, 0, 1, 20}. Color represents the eigenvalue density. Viewed on -40 <= x,y <= 40. Image credit Steven E. Thornton.](Geometric_5x5.jpg)
 
 
 <h4> Research Interests </h4>
