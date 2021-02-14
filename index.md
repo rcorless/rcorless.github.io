@@ -37,7 +37,7 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 
 See <A HREF="https://www.bohemianmatrices.com"> bohemianmatrices.com </A> for details.  But here's an image, just for a teaser.
 
-![Image](https://github.com/rcorless/rcorless.github.io/blob/main/Geometric_5x5.jpg)
+![Image](Geometric_5x5.jpg)
 
 
 <H4> Books </H4>
