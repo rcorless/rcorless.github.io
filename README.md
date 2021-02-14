@@ -14,7 +14,7 @@ The purpose of a personal web page for academics has changed over the decades.  
 and course web pages are now served up behind paywalls at individual institutions.  Videos are best delivered via YouTube channels, or 
 maybe Vimeo.  Code?  Well, why not GitHub?  Personal material belongs on Facebook.  Opinions and rants go on blogs or vlogs, not that those are
 so very popular nowadays either.  Academic connections are now on Twitter.  So, what's left for a web page to do?  I am thinking now that this 
-page will provide links to projects and books, and maybe the more obscure papers.  And, some other odds and ends.
+page will provide links to projects and books, Maple documents and the like, and maybe some of the more obscure papers.  And, some other odds and ends.
 
 Now that I have retired from Western (I took an early retirement incentive and left there July 1, 2019 after 32 years) I am doing other things.
 This web page may serve some of those interests very well.  
