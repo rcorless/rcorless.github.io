@@ -33,6 +33,13 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 
 <a href="http://www.orcca.on.ca"> My research group: The Ontario Research Centre for Computer Algebra </a>
 
+<H4> Bohemian Matrices </H4>
+
+See <A HREF="https://www.bohemianmatrices.com"> bohemianmatrices.com </A> for details.  But here's an image, just for a teaser.
+
+![Image](https://github.com/rcorless/rcorless.github.io/blob/main/Geometric_5x5_gallery%402x.jpg)
+
+
 <H4> Books </H4>
 <OL>
 <LI> <a href="https://www.springer.com/us/book/9781493990504"> Algorithms and Complexity in Mathematics, Epistemology and Science (ACMES) </a> An edited 2019 volume containing papers from the <a href="http://acmes.org/">Computational Discovery/Computational Epistemology conferences </a></LI>
