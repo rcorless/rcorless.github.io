@@ -2,7 +2,7 @@
 Home page for an Academic Vagabond
 
 Why "Academic Vagabond"?  My friend Evelyne Hubert (at INRIA Sophia-Antipolis) laughingly bestowed this sobriquet on me when we met at 
-Cambridge in November 2019, because she kept running into me at various places in the world.  I liked it very much and have kept it, since.
+Cambridge in November 2019, because of my recent travels and plans to do more.  I liked it very much and have kept it, since; not so much for travel (on adventurous days I might go to my _front_ yard these days) but because _academically_ I get around a lot.
 
 Why is this page here?
 My original home page was made when I was on sabbatical at the Centre for Experimental and Constructive Mathematics (www.cecm.sfu.ca) in 1995; 
