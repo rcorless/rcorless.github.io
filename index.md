@@ -24,6 +24,7 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 
 <a href="http://www.orcca.on.ca"> My research group: The Ontario Research Centre for Computer Algebra </a>
 
+[My LinkedIn Profile](https://www.linkedin.com/in/rob-corless-9747667)
 
 
 <H4> Books </H4>
