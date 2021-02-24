@@ -22,7 +22,9 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 <a HREF="https://www.youtube.com/channel/UCcFY7USfrgQn5lgNm_ouApw"> My YouTube Channel </a>
 <p>My channel includes some talks, and some course videos. I'm still learning, but making the videos is quite fun! There will be more.</p>
 
-<a href="http://www.orcca.on.ca"> My research group: The Ontario Research Centre for Computer Algebra </a>
+<a href="https://www.rotman.uwo.ca/"> My computational discovery and epistemology home: The Rotman Institute </a>
+
+<a href="http://www.orcca.on.ca"> My computer algebra research group: The Ontario Research Centre for Computer Algebra </a>
 
 [My LinkedIn Profile](https://www.linkedin.com/in/rob-corless-9747667)
 
