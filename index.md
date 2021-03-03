@@ -1,3 +1,12 @@
+$$
+\left[\begin{array}{rrrc}
+0 & 0 & -1 & 1 \\
+1 & \lambda  & 0 & 0 \\
+1 & -1 & \lambda  & 0 \\
+-1 & 0 & 0 & \lambda-1 
+-\end{array}\right]
+$$
+
 <H4> My current obsession: Bohemian Matrices </H4>
 
 See <A HREF="https://www.bohemianmatrices.com"> bohemianmatrices.com </A> for details.  But here's an image, just for a teaser.
