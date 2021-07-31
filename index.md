@@ -20,7 +20,7 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 <!--- Obviously this <em>might</em> be true, but making sure that it <em>is</em> true is harder, and more important, than it looks. --->
 </p>
 
-<a HREF="https://github.com/rcorless/rcorless.github.io/blob/main/CV.pdf"> My academic CV as of May 19, 2021 </a>
+<a HREF="https://github.com/rcorless/rcorless.github.io/blob/main/CV.pdf"> My academic CV as of July 31, 2021 </a>
 
 <a HREF="https://scholar.google.ca/citations?user=SyLAxDkAAAAJ&hl=en"> My Google Scholar profile </a>
 
