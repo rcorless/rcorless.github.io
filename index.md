@@ -36,7 +36,7 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 
 <H4> Books </H4>
 <OL>
-<LI> <a href="https://www.springer.com/us/book/9783030816971"> Maple in Mathematics Education and Research </a> an edited 2021 volume containing selected papers from the <a href="https://de.maplesoft.com/mapleconference/2020/"> Maple Conference 2020 </a>.  Videos of talks still available at that link.
+<LI> <a href="https://www.springer.com/us/book/9783030816971"> Maple in Mathematics Education and Research </a> an edited 2021 volume containing selected papers from the <a href="https://de.maplesoft.com/mapleconference/2020/"> Maple Conference 2020 </a>.  Videos of talks still available at that link. </LI>
 <LI> <a href="https://www.springer.com/us/book/9781493990504"> Algorithms and Complexity in Mathematics, Epistemology and Science (ACMES) </a> An edited 2019 volume containing papers from the <a href="http://acmes.org/">Computational Discovery/Computational Epistemology conferences </a></LI>
 <LI> <a href="http://www.nfillion.com/">Nic Fillion </a> and I wrote <a href="https://www.springer.com/gp/book/9781461484523">“A Graduate Introduction to Numerical Methods, From the Viewpoint of Backward Error Analysis”</a> together for 2013. Here are some excerpts from <a href="http://www.bookmetrix.com/detail_full/book/0b3312d9-f0a9-4fe1-b700-37c52a50220d#reviews"> reviews of the book </a></LI>
   <LI> <a href="https://www.springer.com/us/book/9780387953526"> Essential Maple </A> 2nd edition, 2002, foolishly entitled "Essential Maple 7". </LI>
