@@ -33,6 +33,8 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 
 [My LinkedIn Profile](https://www.linkedin.com/in/rob-corless-9747667)
 
+<a href="https://www.growkudos.com/publications/10.1145%25252F3452143.3465547/reader"> ACM says "Kudos" are important.  Are they? Here is one of my papers, "kudo-ized." I suspect this fad will fade away.</a>
+
 
 <H4> Books </H4>
 <OL>
