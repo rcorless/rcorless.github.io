@@ -59,4 +59,4 @@ A free Maple Player which can read these items is available at <A HREF="https://
   <LI> <A HREF="https://github.com/rcorless/rcorless.github.io/blob/main/InverseGammaTalk.mw"> The Functional Inverse of Gamma </A> from a number of places </LI>
 </OL>
 
-<a HREF="https://rcorless.gihub.io/allergies.htm"> My (boring) allergies, as of October 2021 </a>
+<a HREF="https://rcorless.gihub.io/allergies.html"> My (boring) allergies, as of October 2021 </a>
