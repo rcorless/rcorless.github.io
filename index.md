@@ -58,3 +58,5 @@ A free Maple Player which can read these items is available at <A HREF="https://
   <LI> <A HREF="https://github.com/rcorless/rcorless.github.io/blob/main/BlendsTalk.maple"> Blends in Maple </A> from the Maple Conference 2020 </LI>
   <LI> <A HREF="https://github.com/rcorless/rcorless.github.io/blob/main/InverseGammaTalk.mw"> The Functional Inverse of Gamma </A> from a number of places </LI>
 </OL>
+
+<a HREF="https://github.com/rcorless/rcorless.github.io/blob/main/allergies.htm"> My (boring) allergies, as of October 2021 </a>
