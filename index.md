@@ -51,9 +51,10 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
   <LI> <a href="http://www.nfillion.com/coderepository/index.php"> Nic Fillion's code repository for "A Graduate Introduction to Numerical Methods, From the Viewpoint of Backward Error Analysis" </a> </LI>
 </OL>
 
-<H4> Maple Documents and Workbooks and Worksheets from talks </H4>
+<H4> Maple Documents and Workbooks and Worksheets and PDFs from talks </H4>
 A free Maple Player which can read these items is available at <A HREF="https://www.maplesoft.com/products/maple/Mapleplayer/"> Mapleplayer </A> .
 <OL>
+  <LI> <A HREF="Symbolic_Numeric_Computing_for_Bohemian_Matrices.pdf"> Hybrid symbolic-numeric methods for Bohemian matrices </A></LI>
   <LI> <A HREF="https://github.com/rcorless/Puiseux-series-Mathieu-double-points/blob/main/MathieuTalk.maple"> Mathieu Functions: A Historical Perspective </A></LI>
   <LI> <A HREF="https://github.com/rcorless/rcorless.github.io/blob/main/BlendsTalk.maple"> Blends in Maple </A> from the Maple Conference 2020 </LI>
   <LI> <A HREF="https://github.com/rcorless/rcorless.github.io/blob/main/InverseGammaTalk.mw"> The Functional Inverse of Gamma </A> from a number of places </LI>
