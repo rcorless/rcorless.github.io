@@ -8,7 +8,7 @@ I am the Editor-in-Chief for <A HREF="http://www.mapletransactions.org"> Maple T
     <li> <A HREF="2022_Bohemian_Wall_CalendarLetterSundayWeek.pdf"> Letter paper, week starts Sunday </A> </li>
     <li> <A HREF="2022_Bohemian_Wall_CalendarLetterMondayWeek.pdf"> Letter paper, week starts Monday </A> </li>
     <li> <A HREF="2022_Bohemian_Wall_CalendarA4SundayWeek.pdf"> A4 paper, week starts Sunday </A> </li>
-    <li> <A HREF="2022_Bohemian_Wall_CalendarA4MondayWeek.pdf"> Letter paper, week starts Monday </A> </li>
+    <li> <A HREF="2022_Bohemian_Wall_CalendarA4MondayWeek.pdf"> A4 paper, week starts Monday </A> </li>
   </ul>
 
 See <A HREF="https://www.bohemianmatrices.com"> bohemianmatrices.com </A> for more information about Bohemian matrices.  
