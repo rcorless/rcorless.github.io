@@ -3,10 +3,20 @@ I am the Editor-in-Chief for <A HREF="http://www.mapletransactions.org"> Maple T
 
 <H4> My current obsession: Bohemian Matrices </H4>
 
-See <A HREF="https://www.bohemianmatrices.com"> bohemianmatrices.com </A> for details.  But here's an image, just for a teaser.
+<bold> The Bohemian Calendar 2022 is out! <bold>
+  <ul>
+    <li> <A HREF="2022_Bohemian_Wall_CalendarLetterSundayWeek.pdf"> Letter paper, week starts Sunday </A> </li>
+    <li> <A HREF="2022_Bohemian_Wall_CalendarLetterMondayWeek.pdf"> Letter paper, week starts Monday </A> </li>
+    <li> <A HREF="2022_Bohemian_Wall_CalendarA4SundayWeek.pdf"> A4 paper, week starts Sunday </A> </li>
+    <li> <A HREF="2022_Bohemian_Wall_CalendarA4MondayWeek.pdf"> Letter paper, week starts Monday </A> </li>
+  </ul>
+
+See <A HREF="https://www.bohemianmatrices.com"> bohemianmatrices.com </A> for more information about Bohemian matrices.  
+
+<!-- But here's an image, just for a teaser.
 
 ![A density plot in the complex plane of the Bohemian eigenvalues of a sample of 73 million 5x5 matrices where the entries are sampled from the set {-20, -1, 0, 1, 20}. Color represents the eigenvalue density. Viewed on -40 <= x,y <= 40. Image credit Steven E. Thornton.](Geometric_5x5.jpg)
-
+ -->
 
 <h4> Research Interests </h4>
 
