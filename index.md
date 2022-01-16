@@ -3,7 +3,7 @@ I am the Editor-in-Chief for <A HREF="http://www.mapletransactions.org"> Maple T
 
 <H4> My current obsession: Bohemian Matrices </H4>
 
-<bold> The Bohemian Calendar 2022 is out! <bold>
+<bold> The Bohemian Calendar 2022 is out! <bold>   <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Licensed under CC-by-SA 4.0. </A>
   <ul>
     <li> <A HREF="2022_Bohemian_Wall_CalendarLetterSundayWeek.pdf"> Letter paper, week starts Sunday </A> </li>
     <li> <A HREF="2022_Bohemian_Wall_CalendarLetterMondayWeek.pdf"> Letter paper, week starts Monday </A> </li>
