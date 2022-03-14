@@ -7,7 +7,7 @@ I am the Editor-in-Chief for <A HREF="http://www.mapletransactions.org"> Maple T
 
 
 
-<bold> My new book, with Neil Calkin and Eunice Chan! Open access, and in beta: comments welcome! </bold>
+<H4> My new book, with Neil Calkin and Eunice Chan! Open access, and in beta: comments welcome! </H4>
 <p><A HREF="https://computational-discovery-on-jupyter.github.io/Computational-Discovery-on-Jupyter/index.html"> Computational Discovery on Jupyter </A>
 
 Chapter 4 (or is it Unit 4?  With a Jupyter Book the old words for divisions of a book are a bit obsolete) covers Bohemian matrices at an entry level.
