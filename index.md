@@ -13,8 +13,8 @@ I am the Editor-in-Chief for <A HREF="http://www.mapletransactions.org"> Maple T
 Chapter 4 (or is it Unit 4?  With a Jupyter Book the old words for divisions of a book are a bit obsolete) covers Bohemian matrices at an entry level.
   
 ![A density plot in the complex plane of the eigenvalues of a sample of 500,000 seven by seven matrices with entries −1± i. Colour represents the eigenvalue density.](Dense7nrow2400.jpg)
-
-
+<img src="Dense7nrow2400.jpg" alt="A density plot in the complex plane of the eigenvalues of a sample of 500,000 seven by seven matrices with entries −1± i. Colour represents the eigenvalue density." >
+  
 <bold> The Bohemian Calendar 2022 is out! (Many images produced by the code from the book above) <bold>   <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Licensed under CC-by-SA 4.0. </A>
   <ul>
     <li> <A HREF="2022_Bohemian_Wall_CalendarLetterSundayWeek.pdf"> Letter paper, week starts Sunday </A> </li>
