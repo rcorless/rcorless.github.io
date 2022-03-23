@@ -42,21 +42,19 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 <!--- Obviously this <em>might</em> be true, but making sure that it <em>is</em> true is harder, and more important, than it looks. --->
 </p>
 
-<a HREF="https://github.com/rcorless/rcorless.github.io/blob/main/CV.pdf"> My academic CV as of December 4, 2021 </a>
+<ul>
+<li><a HREF="https://github.com/rcorless/rcorless.github.io/blob/main/CV.pdf"> My academic CV as of Marc 23, 2022 </a> </li>
+<li><a HREF="https://scholar.google.ca/citations?user=SyLAxDkAAAAJ&hl=en"> My Google Scholar profile </a> </li>
+<li><a HREF="https://www.youtube.com/channel/UCcFY7USfrgQn5lgNm_ouApw"> My YouTube Channel </a> 
+<p>My channel includes some talks, and some course videos. I'm still learning, but making the videos is quite fun! There will be more.</p> </li>
+<li> <a href="https://www.rotman.uwo.ca/"> My computational discovery and epistemology home: The Rotman Institute of Philosophy </a> </li>
+<li> <a href="http://www.orcca.on.ca"> My computer algebra research group: The Ontario Research Centre for Computer Algebra </a> </li>
+<li> <a href="https://www.linkedin.com/in/rob-corless-9747667"> My LinkedIn profile </a> </li>
+</ul>
 
-<a HREF="https://scholar.google.ca/citations?user=SyLAxDkAAAAJ&hl=en"> My Google Scholar profile </a>
-
-<a HREF="https://www.youtube.com/channel/UCcFY7USfrgQn5lgNm_ouApw"> My YouTube Channel </a>
-<p>My channel includes some talks, and some course videos. I'm still learning, but making the videos is quite fun! There will be more.</p>
-
-<a href="https://www.rotman.uwo.ca/"> My computational discovery and epistemology home: The Rotman Institute of Philosophy </a>
-
-<a href="http://www.orcca.on.ca"> My computer algebra research group: The Ontario Research Centre for Computer Algebra </a>
-
-[My LinkedIn Profile](https://www.linkedin.com/in/rob-corless-9747667)
-
+<p>
 <a href="https://www.growkudos.com/publications/10.1145%25252F3452143.3465547/reader"> ACM says "Kudos" are important.  Are they? Here is one of my papers, "kudo-ized." I suspect this fad will fade away.</a>
-
+</p>
 
 <H4> Books </H4>
 <OL>
