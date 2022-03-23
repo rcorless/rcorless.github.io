@@ -43,7 +43,7 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 </p>
 
 <ul>
-<li><a HREF="https://github.com/rcorless/rcorless.github.io/blob/main/CV.pdf"> My academic CV as of Marc 23, 2022 </a> </li>
+<li><a HREF="https://github.com/rcorless/rcorless.github.io/blob/main/CV.pdf"> My academic CV as of March 23, 2022 </a> </li>
 <li><a HREF="https://scholar.google.ca/citations?user=SyLAxDkAAAAJ&hl=en"> My Google Scholar profile </a> </li>
 <li><a HREF="https://www.youtube.com/channel/UCcFY7USfrgQn5lgNm_ouApw"> My YouTube Channel </a> 
 <p>My channel includes some talks, and some course videos. I'm still learning, but making the videos is quite fun! There will be more.</p> </li>
