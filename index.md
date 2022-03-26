@@ -64,6 +64,12 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
   <LI> <a href="https://www.springer.com/us/book/9780387953526"> Essential Maple </A> 2nd edition, 2002, foolishly entitled "Essential Maple 7". </LI>
 </OL>
 
+<H4> Some Older Mathematical Visualizations </H4>
+<OL>
+  <LI> <A HREF="http://www.orcca.on.ca/LambertW"> The Lambert W Function Poster </A> </LI>
+  <LI> <A HREF="about.pdf"> About the 1998 UWO Applied Math Coffee Mug Design </A> (These mugs are collector's items, now) </LI>
+</OL>
+
 <H4> Code Repositories for Books and Papers </H4>
 
 <OL>
