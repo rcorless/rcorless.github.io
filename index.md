@@ -47,6 +47,7 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 <li><a HREF="https://scholar.google.ca/citations?user=SyLAxDkAAAAJ&hl=en"> My Google Scholar profile </a> </li>
 <li><a HREF="https://www.youtube.com/channel/UCcFY7USfrgQn5lgNm_ouApw"> My YouTube Channel </a> 
 <p>My channel includes some talks, and some course videos. I'm still learning, but making the videos is quite fun! There will be more.</p> </li>
+<li> <a rel="me" href="https://mathstodon.xyz/@rcorless">My Mastodon profile </a>
 <li> <a href="https://www.rotman.uwo.ca/"> My computational discovery and epistemology home: The Rotman Institute of Philosophy </a> </li>
 <li> <a href="http://www.orcca.on.ca"> My computer algebra research group: The Ontario Research Centre for Computer Algebra </a> </li>
 <li> <a href="https://www.linkedin.com/in/rob-corless-9747667"> My LinkedIn profile </a> </li>
