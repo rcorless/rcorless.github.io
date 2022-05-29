@@ -1,6 +1,8 @@
 <H4> Maple Transactions </H4>
 I am the Editor-in-Chief for <A HREF="http://www.mapletransactions.org"> Maple Transactions </A>, a new open-access scholarly journal.  The purpose of Maple Transactions is to disseminate excellent expositions on topics of interest to the Maple community.  There are no page charges, and you need not use Maple to be published in this journal.
 
+<p><A HREF="Devilish_Tricks_for_Sequence_Acceleration.pdf"> A draft paper on sequence acceleration for comment. </A></p>
+
 <H4> My current obsession: Bohemian Matrices </H4>
 
 <p><A HREF="https://en.wikipedia.org/wiki/Bohemian_matrices"> The Wikipedia entry on Bohemian Matrices </A></p>
