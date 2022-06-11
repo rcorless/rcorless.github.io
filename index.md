@@ -83,6 +83,7 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 <H4> Maple Documents and Workbooks and Worksheets and PDFs from talks </H4>
 A free Maple Player which can read these items is available at <A HREF="https://www.maplesoft.com/products/maple/Mapleplayer/"> Mapleplayer </A> .
 <OL>
+  <LI> <A HREF="Algebraic_Companions.pdf"> Algebraic Companions (for ILAS 2022, Galway) </A></LI>
   <LI> <A HREF="ATCM_Invited_Talk.pdf"> Computational Discovery with Newton Fractals, Bohemian Matrices, & Mandelbrot Polynomials (for ATCM) </A></LI>
   <LI> <A HREF="Symbolic_Numeric_Computing_for_Bohemian_Matrices.pdf"> Hybrid symbolic-numeric methods for Bohemian matrices </A></LI>
   <LI> <A HREF="https://github.com/rcorless/Puiseux-series-Mathieu-double-points/blob/main/MathieuTalk.maple"> Mathieu Functions: A Historical Perspective </A></LI>
