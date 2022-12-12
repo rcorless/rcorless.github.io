@@ -19,10 +19,10 @@ Chapter 4 (or is it Unit 4?  With a Jupyter Book the old words for divisions of 
   
 <b> The Bohemian Calendar 2023 is out! (Many images produced by the code from the book above) </b>   <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Licensed under CC-by-SA 4.0. </A>
   <ul>
-    <li> <A HREF="2023_Bohemian_Wall_CalendarLetterSundayWeek.pdf"> Letter paper, week starts Sunday </A> </li>
-    <li> <A HREF="2023_Bohemian_Wall_CalendarLetterMondayWeek.pdf"> Letter paper, week starts Monday </A> </li>
-    <li> <A HREF="2023_Bohemian_Wall_CalendarA4SundayWeek.pdf"> A4 paper, week starts Sunday </A> </li>
-    <li> <A HREF="2023_Bohemian_Wall_CalendarA4MondayWeek.pdf"> A4 paper, week starts Monday </A> </li>
+    <li> <A HREF="2023_Bohemian_Wall_CalendarLetterSunday.pdf"> Letter paper, week starts Sunday </A> </li>
+    <li> <A HREF="2023_Bohemian_Wall_CalendarLetterMonday.pdf"> Letter paper, week starts Monday </A> </li>
+    <li> <A HREF="2023_Bohemian_Wall_CalendarA4Sunday.pdf"> A4 paper, week starts Sunday </A> </li>
+    <li> <A HREF="2023_Bohemian_Wall_CalendarA4Monday.pdf"> A4 paper, week starts Monday </A> </li>
   </ul>
 
 See <A HREF="https://www.bohemianmatrices.com"> bohemianmatrices.com </A> for more information about Bohemian matrices.  
