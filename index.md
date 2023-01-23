@@ -5,6 +5,8 @@ I am the Editor-in-Chief for <A HREF="http://www.mapletransactions.org"> Maple T
 
 <p><A HREF="Blends_have_decent_numerical_properties.pdf"> A draft paper showing that blends have decent numerical properties, again for comment. </A></p>
 
+<p><A HREF="Mathieu_Functions_in_Maple.pdf"> A draft paper on special functions in symbolic computation systems, again for comment. </A></p>
+
 <H4> My current obsession: Bohemian Matrices </H4>
 
 <p><A HREF="https://en.wikipedia.org/wiki/Bohemian_matrices"> The Wikipedia entry on Bohemian Matrices </A></p>
