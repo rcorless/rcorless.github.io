@@ -3,6 +3,7 @@ I am the Editor-in-Chief for <A HREF="http://www.mapletransactions.org"> Maple T
 
 <p><A HREF="Mathieu_Functions_in_Maple.pdf"> A draft paper on special functions in symbolic computation systems, for comment. </A></p>
 <p><A HREF="Blendstrings.pdf"> A draft paper on a Chebfun-like environment in Maple using blends, for comment. </A></p>
+<p><A HREF="EllipticCrossSectionsInBloodFlowRegulation.pdf"> A draft paper applying that environment and collocation to solve the Mathieu equation, for comment. </A></p>
 
 <H4> My current obsession: Bohemian Matrices </H4>
 
