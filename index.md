@@ -6,6 +6,7 @@ I am the Editor-in-Chief for <A HREF="http://www.mapletransactions.org"> Maple T
 <p><A HREF="EllipticCrossSectionsInBloodFlowRegulation.pdf"> A draft paper applying that environment </A></p>
 
 <p><A HREF="ANODE_2023_Talk.pdf"> My talk for ANODE 2023 </A></p>
+<p><A HREF="booksession.pdf"> John Butcher's slides for the book session at ANODE 2023 </A></p>
 
 
  and collocation to solve the Mathieu equation, for comment. </A></p>
