@@ -30,6 +30,10 @@ Chapter 4 (or is it Unit 4?  With a Jupyter Book the old words for divisions of 
 <img src="Viridiscrop281500.png" alt="cropped density plot of complex eigenvalues brighter colours mean more eigenvalues" width=400 height=400>
  
 <p>The cover shows a density plot in the complex plane of the eigenvalues of all 3¹⁶ = 43,046,721 "doubly companion" matrices of dimension $m=8$ with population {-1,0,1}. Because we were unsure of rounding error effects on the delicate structures at the left and right edges, we first computed all 2,184,139 distinct degree 8 characteristic polynomials and solved those accurately in Maple. In fact we need not have worried, and eigenvalue computation, which is faster, resolves the delicate structures quite well. We do <it>not</it> understand those structures.  Plotted on the square -2.2 < x < 2.2, -2.2 < y < 2.2.  See <A HREF="https://link.springer.com/content/pdf/10.1023/A:1019176422613.pdf"> Butcher JC, Chartier P. The effective order of singly-implicit Runge-Kutta methods. Numerical Algorithms. 1999 Aug;20:269-84</A> for properties of doubly companion matrices. </p>
+
+<p> A version using the Maple kernel for Jupyter notebooks is under construction.  Here is one such notebook, which validates a hand computation of approximate zeros of the Fibonacci function. </p>
+
+<A HREF="Approximate Fibonacci Zeros.ipynb"> An example Jupyter notebook linking to a Maple kernel. </A>
  
 <b> The Bohemian Calendar 2023 is out! (Many images produced by the code from the book above) </b>   <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Licensed under CC-by-SA 4.0. </A>
   <ul>
