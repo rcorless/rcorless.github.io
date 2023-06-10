@@ -33,7 +33,7 @@ Chapter 4 (or is it Unit 4?  With a Jupyter Book the old words for divisions of 
 
 <H4> Proposed Cover Designs </H4>
  
- <A HREF="https://github.com/rcorless/rcorless.github.io/blob/main/OT190_CALKIN_COVER_VERIDIS_NEW_B.pdf"> Blue and Pink </A>
+ <A HREF="https://github.com/rcorless/rcorless.github.io/blob/main/OT190_CALKIN_COVER_VERIDIS_NEW_B.pdf"> Teal and Fuchsia </A>
  
  <A HREF="https://github.com/rcorless/rcorless.github.io/blob/main/OT190_CALKIN_COVER_VERIDIS_NEW_C.pdf"> Green and Yellow </A>
 
