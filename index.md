@@ -107,6 +107,7 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 <H4> Maple Documents and Workbooks and Worksheets and PDFs from talks </H4>
 A free Maple Player which can read these items is available at <A HREF="https://www.maplesoft.com/products/maple/Mapleplayer/"> Mapleplayer </A> .
 <OL>
+  <LI> <A HREF="Blendstrings_Talk_for_ISSAC.pdf"> Talk slides for Blendstrings: An Environment for Computing with Smooth Functions, ISSAC Tromsø </A></LI>
   <LI> <A HREF="TeachingMechanizedEnvironment__Talk_.pdf"> Talk slides for Teaching Mathematics in a Mechanized Environment (CUNEF 2023-06-28) </A>
   <LI> <A HREF="Doubly_Companion_Matrices.pdf"> Talk slides for ILAS 2023 </A> </LI>
   <LI> <A HREF="Generalized_Standard_Triples__FMD60_.pdf"> My talk, Generalized Standard Triples, for FMD60 in Madrid 2023 </A> </Li>
