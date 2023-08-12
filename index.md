@@ -14,23 +14,11 @@ I am the Editor-in-Chief for <A HREF="http://www.mapletransactions.org"> Maple T
 
 <p><A HREF="https://en.wikipedia.org/wiki/Bohemian_matrices"> The Wikipedia entry on Bohemian Matrices </A></p>
 
-
-
 <H4> My new book, with Neil Calkin and Eunice Chan! Open access, and in beta: comments welcome! </H4>
 <p><A HREF="https://computational-discovery-on-jupyter.github.io/Computational-Discovery-on-Jupyter/index.html"> Computational Discovery on Jupyter </A>
 
 Chapter 5 (or is it Unit 5?  With a Jupyter Book the old words for divisions of a book are a bit obsolete) covers Bohemian matrices at an entry level.
  
-<p>Possible cover images from Doubly Companion Matrices:</p>
- 
-<img src="ViridisFreq86000.png" alt="density plot of complex eigenvalues brighter colours mean more eigenvalues" width=400 height=400>
- 
-<p>Zoomed in near the left edge:</p>
- 
-<img src="Viridiscrop281500.png" alt="cropped density plot of complex eigenvalues brighter colours mean more eigenvalues" width=400 height=400>
- 
-<p>The cover shows a density plot in the complex plane of the eigenvalues of all 3¹⁶ = 43,046,721 "doubly companion" matrices of dimension $m=8$ with population {-1,0,1}. Because we were unsure of rounding error effects on the delicate structures at the left and right edges, we first computed all 2,184,139 distinct degree 8 characteristic polynomials and solved those accurately in Maple. In fact we need not have worried, and eigenvalue computation, which is faster, resolves the delicate structures quite well. We do <it>not</it> understand those structures.  Plotted on the square -2.2 < x < 2.2, -2.2 < y < 2.2.  See <A HREF="https://link.springer.com/content/pdf/10.1023/A:1019176422613.pdf"> Butcher JC, Chartier P. The effective order of singly-implicit Runge-Kutta methods. Numerical Algorithms. 1999 Aug;20:269-84</A> for properties of doubly companion matrices. </p>
-
 <H4> Proposed Cover Design </H4>
  
  <A HREF="https://github.com/rcorless/rcorless.github.io/blob/main/OT190_CALKIN_COVER_VERIDIS_NEW_B_V3.pdf"> Have a look! </A>
@@ -106,6 +94,7 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 
 <H4> Maple Documents and Workbooks and Worksheets and PDFs from talks </H4>
 A free Maple Player which can read these items is available at <A HREF="https://www.maplesoft.com/products/maple/Mapleplayer/"> Mapleplayer </A> .
+
 <OL>
   <LI> <A HREF="Blendstrings__Numerical_Analysis_in_the_21st_Century_.pdf"> Talk slides for Blendstrings: An Environment for Computing with Smooth Functions, Numerical Analysis in the 21st century, Oxford </A></LI>
   <LI> <A HREF="TeachingMechanizedEnvironment__Talk_.pdf"> Talk slides for Teaching Mathematics in a Mechanized Environment (CUNEF 2023-06-28) </A>
@@ -120,5 +109,5 @@ A free Maple Player which can read these items is available at <A HREF="https://
   <LI> <A HREF="https://github.com/rcorless/rcorless.github.io/blob/main/InverseGammaTalk.mw"> The Functional Inverse of Gamma </A> from a number of places </LI>
 </OL>
 
-<p> My allergies </p>
+<H4> My allergies </H4>
 <a HREF="allergies.html"> My (boring) allergies, as of October 2021 </A>
