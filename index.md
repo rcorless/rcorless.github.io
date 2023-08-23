@@ -1,7 +1,7 @@
 <H4> Maple Transactions </H4>
 I am the Editor-in-Chief for <A HREF="http://www.mapletransactions.org"> Maple Transactions </A>, a new open-access scholarly journal.  The purpose of Maple Transactions is to disseminate excellent expositions on topics of interest to the Maple community.  There are no page charges, and you need not use Maple to be published in this journal.
 
-<p><A HREF="Mathieu_Functions_in_Maple.pdf"> A draft paper on special functions in symbolic computation systems, for comment. </A></p>
+<p><A HREF="SpecialFunctionsInPSE.pdf"> A draft paper on special functions in symbolic computation systems, for comment. </A></p>
 <p><A HREF="Blendstrings.pdf"> A draft paper on a Chebfun-like environment in Maple using blends, for comment. </A></p>
 <p><A HREF="EllipticCrossSectionsInBloodFlowRegulation.pdf"> A draft paper applying that environment 
  and collocation to solve the Mathieu equation, for comment.  </A></p>
