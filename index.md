@@ -54,7 +54,7 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 <li> <a href="https://www.rotman.uwo.ca/"> My computational discovery and epistemology home: The Rotman Institute of Philosophy </a> </li>
 <li> <a href="http://www.orcca.on.ca"> My computer algebra research group: The Ontario Research Centre for Computer Algebra </a> </li>
 <li> <a href="https://www.linkedin.com/in/rob-corless-9747667"> My LinkedIn profile </a> </li>
-</ul>
+
 
 <p>
 <a href="https://www.growkudos.com/publications/10.1145%25252F3452143.3465547/reader"> ACM says "Kudos" are important.  Are they? Here is one of my papers, "kudo-ized." I suspect this fad will fade away.</a>
@@ -98,7 +98,7 @@ A free Maple Player which can read these items is available at <A HREF="https://
   <LI> <A HREF="https://github.com/rcorless/Puiseux-series-Mathieu-double-points/blob/main/MathieuTalk.maple"> Mathieu Functions: A Historical Perspective </A></LI>
   <LI> <A HREF="https://github.com/rcorless/rcorless.github.io/blob/main/BlendsTalk.maple"> Blends in Maple </A> from the Maple Conference 2020 </LI>
   <LI> <A HREF="https://github.com/rcorless/rcorless.github.io/blob/main/InverseGammaTalk.mw"> The Functional Inverse of Gamma </A> from a number of places </LI>
-</OL>
+
 
 <H4> My allergies </H4>
 <A HREF="allergies.html"> My (boring) allergies, as of October 2021 </A>
