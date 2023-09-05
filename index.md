@@ -1,15 +1,6 @@
 <H4> Maple Transactions </H4>
 I am the Editor-in-Chief for <A HREF="http://www.mapletransactions.org"> Maple Transactions </A>, a new open-access scholarly journal.  The purpose of Maple Transactions is to disseminate excellent expositions on topics of interest to the Maple community.  There are no page charges, and you need not use Maple to be published in this journal.
 
-<p><A HREF="SpecialFunctionsInPSE.pdf"> A draft paper on special functions in symbolic computation systems, for comment. </A></p>
-<p><A HREF="Blendstrings.pdf"> A draft paper on a Chebfun-like environment in Maple using blends, for comment. </A></p>
-<p><A HREF="EllipticCrossSectionsInBloodFlowRegulation.pdf"> A draft paper applying that environment 
- and collocation to solve the Mathieu equation, for comment.  </A></p>
-
-<p><A HREF="ANODE_2023_Talk.pdf"> My talk for ANODE 2023 </A></p>
-
-
-
 <H4> My current obsession: Bohemian Matrices </H4>
 
 <p><A HREF="https://en.wikipedia.org/wiki/Bohemian_matrices"> The Wikipedia entry on Bohemian Matrices </A></p>
@@ -95,11 +86,12 @@ A free Maple Player which can read these items is available at <A HREF="https://
 
 <OL>
  <LI> <a href="TeachingLinearAlgebraMechanized__Environment.pdf"> Talk slides for CICM (Cambridge) Sept 2023 </a> </LI>
-  <LI> <A HREF="Blendstrings__Numerical_Analysis_in_the_21st_Century_.pdf"> Talk slides for Blendstrings: An Environment for Computing with Smooth Functions, Numerical Analysis in the 21st century, Oxford </A></LI>
+  <LI> <A HREF="Blendstrings__Numerical_Analysis_in_the_21st_Century_.pdf"> Talk slides for Blendstrings: An Environment for Computing with Smooth Functions, Numerical Analysis in the 21st century, Oxford, Aug 2023 </A></LI>
   <LI> <A HREF="TeachingMechanizedEnvironment__Talk_.pdf"> Talk slides for Teaching Mathematics in a Mechanized Environment (CUNEF 2023-06-28) </A>
-  <LI> <A HREF="Doubly_Companion_Matrices.pdf"> Talk slides for ILAS 2023 </A> </LI>
-  <LI> <A HREF="Generalized_Standard_Triples__FMD60_.pdf"> My talk, Generalized Standard Triples, for FMD60 in Madrid 2023 </A> </Li>
-  <LI> <A HREF="https://github.com/rcorless/Puiseux-series-Mathieu-double-points/blob/main/MathieuTalkMapleConference.maple"> Mathieu Functions in Maple </A> for the <A HREF="https://www.maplesoft.com/mapleconference/2022/"> Maple Conference 2022 </A> </LI> 
+  <LI> <A HREF="Doubly_Companion_Matrices.pdf"> Talk slides for ILAS July 2023 </A> </LI>
+  <LI> <A HREF="Generalized_Standard_Triples__FMD60_.pdf"> My talk, Generalized Standard Triples, for FMD60 in Madrid July 2023 </A> </Li>
+ <LI> <A HREF="ANODE_2023_Talk.pdf"> My talk for ANODE, February 2023 </A> </LI>
+ <LI> <A HREF="https://github.com/rcorless/Puiseux-series-Mathieu-double-points/blob/main/MathieuTalkMapleConference.maple"> Mathieu Functions in Maple </A> for the <A HREF="https://www.maplesoft.com/mapleconference/2022/"> Maple Conference 2022 </A> </LI> 
   <LI> <A HREF="Algebraic_Companions.pdf"> Algebraic Companions (for ILAS 2022, Galway) </A></LI>
   <LI> <A HREF="ATCM_Invited_Talk.pdf"> Computational Discovery with Newton Fractals, Bohemian Matrices, & Mandelbrot Polynomials (for ATCM) </A></LI>
   <LI> <A HREF="Symbolic_Numeric_Computing_for_Bohemian_Matrices.pdf"> Hybrid symbolic-numeric methods for Bohemian matrices </A></LI>
