@@ -46,14 +46,12 @@ See <A HREF="https://www.bohemianmatrices.com"> bohemianmatrices.com </A> for mo
 
 <h4> Research Interests </h4>
 
-<p></p>
 <p>I have three major overlapping research areas: computational dynamical systems, computational algebra, and computational special functions, each of which is used in scientific and engineering applications. 
 <!---The applications I and others have used my work for include flow-induced vibration of artificial structures, financial options, cardiac simulations, and the kinetics of dark adaptation in the human eye.  --->
 My main overall concern is for the fidelity and reliability of these algorithms in actual applications. 
 <!--- Of course, everyone wants to solve problems quickly, but no-one wants this at the expense of unreliable predictions. --->
 The main approach that I use is <A HREF="https://github.com/rcorless/rcorless.github.io/blob/main/CMTpaper.pdf">Computer-Mediated Thinking</A> or <em>Computational Discovery</em>, or <em>Computational Epistemology</em>. 
 That link goes to a paper describing that idea in a <em>teaching</em> context, but it is a much broader idea, namely that the combination of human plus computer, especially equipped with thin slices of Artificial Intelligence, can be better than the human alone. 
-<!--- Obviously this <em>might</em> be true, but making sure that it <em>is</em> true is harder, and more important, than it looks. --->
 </p>
 
 <ul>
@@ -96,6 +94,7 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 A free Maple Player which can read these items is available at <A HREF="https://www.maplesoft.com/products/maple/Mapleplayer/"> Mapleplayer </A> .
 
 <OL>
+ <LI> <a href="TeachingLinearAlgebraMechanized__Environment.pdf"> Talk slides for CICM (Cambridge) Sept 2023 </a> </LI>
   <LI> <A HREF="Blendstrings__Numerical_Analysis_in_the_21st_Century_.pdf"> Talk slides for Blendstrings: An Environment for Computing with Smooth Functions, Numerical Analysis in the 21st century, Oxford </A></LI>
   <LI> <A HREF="TeachingMechanizedEnvironment__Talk_.pdf"> Talk slides for Teaching Mathematics in a Mechanized Environment (CUNEF 2023-06-28) </A>
   <LI> <A HREF="Doubly_Companion_Matrices.pdf"> Talk slides for ILAS 2023 </A> </LI>
