@@ -14652,7 +14652,7 @@ can be rewritten as the iteration $a_{n+1} = z^{a_n}$ or, equivalently via $a_n 
     alt="The infinite tower fractal">
 </img></p>
 <p>We can see the unit disk in purple, and extending to the left (in the $\zeta$ plane) we see the curiously scalloped region where two-cycles are stable, depicted in a kind of green colour.  In particular, for real values of $z$ in the interval $(0, e^{-e})$, there exists a stable two-cycle.</p>
-<p>This image, obtained by numerical computation for many values of $z$ and post-processing to detect cycle length, is described in more detail in [link]. The purpose of this present note is to explain the scalloped shape of the region where the two-cycles are stable, and incidentally to confirm that its appearance in the figure is genuine and not a numerical artifact.</p>
+<p>This image, obtained by numerical computation for many values of $z$ and post-processing to detect cycle length, is described in more detail in our previous paper (listed below, in the references section). The purpose of this present note is to explain the scalloped shape of the region where the two-cycles are stable, and incidentally to confirm that its appearance in the figure is genuine and not a numerical artifact.</p>
 
 </div>
 </div>
@@ -15078,7 +15078,7 @@ $$ 6.9\times 10^{-13}- 1.0\times 10^{-13} \mathrm{I}$$
 
 
 <div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
-<pre>kilobytes used=5617, alloc=10801, time=0.61</pre>
+<pre>kilobytes used=5464, alloc=10801, time=0.73</pre>
 </div>
 
 </div>
@@ -15533,7 +15533,7 @@ Notice that the trivial (one-cycle) solution $A=B$ gets translated here into $\s
 \begin{equation}
 \sigma = \mu +\frac{2}{3} \mu^{2}+\frac{4}{9} \mu^{3}+\frac{44}{135} \mu^{4}+\frac{104}{405} \mu^{5}+\mathrm{O}\left(\mu^{6}\right)
 \end{equation}
-which we can reproduce in Maple as follows, to whatever order we desire.  Karamata computed up to $O(\mu^{15})$ by hand, and proved that the coefficients behaved like $O(1/n)$, which means that the radius of convergence of this series is $1$.</p>
+which we can reproduce in Maple to whatever order we desire (we show how in Appendix A).  Karamata computed up to $O(\mu^{15})$ by hand, and proved that the coefficients behaved like $O(1/n)$, which means that the radius of convergence of this series is $1$.</p>
 
 </div>
 </div>
@@ -15545,7 +15545,7 @@ which we can reproduce in Maple as follows, to whatever order we desire.  Karama
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Now, solving equations in series is a bit of an old-fashioned skill these days, but we need it here to get the more modern path-following method (also called <em>homotopy continuation method</em>) started.  We think it's worth explaining, so before we do the full solution with Maple we will go through an overview "by hand" using only a few terms of the series.  The first equation that we want to use Karamata's series in is 
+<p>Now, solving equations in series is a bit of an old-fashioned skill these days, but we need it here to get the more modern path-following method (also called <em>homotopy continuation method</em>) started.  We think it's worth explaining, so instead of giving the full solution with Maple (which we do in Appendix A, as we mentioned) we will go through an overview "by hand" using only a few terms of the series.  The first equation that we want to use Karamata's series in is 
 \begin{equation}
 AB = -(1+\sigma)(-1+\mu) = e^{i\theta} .
 \end{equation}
@@ -15637,7 +15637,7 @@ $$-{\mathrm e}-\frac{1}{6} {\mathrm e} \mu^{2}+\mathrm{O}\left(\mu^{3}\right)$$
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[17]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-maple"><pre><span></span>series( (-1+alpha*mu + O(mu^2))*exp(-1-alpha*mu+O(mu^2)), mu );
+<div class=" highlight hl-maple"><pre><span></span>series( (-1+alpha*mu + O(mu^2))*exp(1+alpha*mu+O(mu^2)), mu );
 </pre></div>
 
      </div>
@@ -15660,7 +15660,7 @@ $$-{\mathrm e}-\frac{1}{6} {\mathrm e} \mu^{2}+\mathrm{O}\left(\mu^{3}\right)$$
 
 
 <div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-OutputArea-output jp-OutputArea-executeResult" data-mime-type="text/markdown">
-$$-{\mathrm e}^{-1}+2 {\mathrm e}^{-1} \alpha  \mu +\mathrm{O}\left(\mu^{2}\right)$$
+$$-{\mathrm e}+\mathrm{O}\left(\mu^{2}\right)$$
 </div>
 
 </div>
@@ -16321,6 +16321,20 @@ $$83$$
 <div class="jp-OutputArea-child">
 
     
+    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+
+
+
+
+<div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
+<pre>kilobytes used=218558, alloc=18480, time=21.00</pre>
+</div>
+
+</div>
+
+<div class="jp-OutputArea-child">
+
+    
     <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[30]:</div>
 
 
@@ -16704,7 +16718,7 @@ plots[display]( lineplot0, lineplot1,zplot[1],approxzetaplot, view=[-3.0..-1,0..
 
 
 <div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
-<pre>kilobytes used=230631, alloc=18480, time=22.00</pre>
+<pre>kilobytes used=232102, alloc=18480, time=22.66</pre>
 </div>
 
 </div>
@@ -16829,7 +16843,7 @@ end do:
 
 
 <div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
-<pre>kilobytes used=236664, alloc=18480, time=22.69</pre>
+<pre>kilobytes used=237938, alloc=18480, time=23.48</pre>
 </div>
 
 </div>
@@ -16982,7 +16996,7 @@ end do:
 
 
 <div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
-<pre>kilobytes used=3267587, alloc=18480, time=373.48</pre>
+<pre>kilobytes used=3263034, alloc=18480, time=368.06</pre>
 </div>
 
 </div>
@@ -17020,6 +17034,20 @@ plots[display]( seq( zetaplot[k], k=2..Ncrossings), zplot[1], approxzetaplot, sc
 
 
 <div class="jp-OutputArea jp-Cell-outputArea">
+
+<div class="jp-OutputArea-child">
+
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+
+
+
+
+<div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
+<pre>kilobytes used=3268101, alloc=18480, time=368.69</pre>
+</div>
+
+</div>
 
 <div class="jp-OutputArea-child">
 
@@ -17249,7 +17277,7 @@ plots[display]( seq( zetaplot[k], k=2..Ncrossings),
 
 
 <div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
-<pre>kilobytes used=3282437, alloc=18480, time=375.59</pre>
+<pre>kilobytes used=3280585, alloc=18480, time=370.45</pre>
 </div>
 
 </div>
@@ -17374,6 +17402,20 @@ $$W \left(k , b \,{\mathrm e}^{b}\right) {\mathrm e}^{-b}$$
 
 
 <div class="jp-OutputArea jp-Cell-outputArea">
+
+<div class="jp-OutputArea-child">
+
+    
+    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+
+
+
+
+<div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
+<pre>kilobytes used=3286244, alloc=18480, time=371.20</pre>
+</div>
+
+</div>
 
 <div class="jp-OutputArea-child">
 
@@ -18092,7 +18134,7 @@ zeros150 := fsolve( convert(K150,polynom), mu, complex ):
 
 
 <div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
-<pre>kilobytes used=4964385, alloc=26055, time=459.03</pre>
+<pre>kilobytes used=4923776, alloc=26017, time=446.86</pre>
 </div>
 
 </div>
@@ -18245,7 +18287,7 @@ $$1-\frac{1}{3} \mu^{2}-\frac{2}{9} \mu^{3}-\frac{16}{135} \mu^{4}-\frac{28}{405
 
 
 <div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
-<pre>kilobytes used=5077304, alloc=29127, time=471.55</pre>
+<pre>kilobytes used=5041503, alloc=29089, time=459.00</pre>
 </div>
 
 </div>
