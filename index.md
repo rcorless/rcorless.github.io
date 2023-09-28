@@ -19,6 +19,12 @@ Chapter 5 (or is it Unit 5?  With a Jupyter Book the old words for divisions of 
 <p> A version of the book using the Maple kernel for Jupyter notebooks is under construction.  Here is one such notebook, which validates a hand computation of approximate zeros of the Fibonacci function. </p>
 
 <A HREF="Approximate Fibonacci Zeros.ipynb"> An example Jupyter notebook linking to a Maple kernel. </A>
+
+<p>Here is another, which is a draft of a paper for Maple transactions.</p>
+
+<A HREF="https://github.com/rcorless/Two-cycles/blob/main/Two-cycles.html"> Two-cycles in the infinite exponential tower </A>
+
+
  
 <b> The Bohemian Calendar 2023 is out! (Many images produced by the code from the book above) </b>   <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Licensed under CC-by-SA 4.0. </A>
   <ul>
