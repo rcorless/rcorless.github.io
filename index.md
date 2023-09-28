@@ -22,7 +22,7 @@ Chapter 5 (or is it Unit 5?  With a Jupyter Book the old words for divisions of 
 
 <p>Here is another, which is a draft of a paper for Maple transactions.</p>
 
-<A HREF="../Two-cycles/blob/main/Two-cycles.html"> Two-cycles in the infinite exponential tower </A>
+<A HREF="Two-cycles.html"> Two-cycles in the infinite exponential tower </A>
 
 
  
