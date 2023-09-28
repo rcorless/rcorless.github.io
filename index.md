@@ -22,11 +22,11 @@ Chapter 5 (or is it Unit 5?  With a Jupyter Book the old words for divisions of 
 
 <p>Here is another, which is a draft of a paper for Maple transactions.</p>
 
-<A HREF="https://github.com/rcorless/Two-cycles/blob/main/Two-cycles.html"> Two-cycles in the infinite exponential tower </A>
+<A HREF="../Two-cycles/blob/main/Two-cycles.html"> Two-cycles in the infinite exponential tower </A>
 
 
  
-<b> The Bohemian Calendar 2023 is out! (Many images produced by the code from the book above) </b>   <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Licensed under CC-by-SA 4.0. </A>
+<H4> The Bohemian Calendar 2023 is out! (Many images produced by the code from the book above) </H4>   <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Licensed under CC-by-SA 4.0. </A>
   <ul>
     <li> <A HREF="2023_Bohemian_Wall_CalendarLetterSunday.pdf"> Letter paper, week starts Sunday </A> </li>
     <li> <A HREF="2023_Bohemian_Wall_CalendarLetterMonday.pdf"> Letter paper, week starts Monday </A> </li>
