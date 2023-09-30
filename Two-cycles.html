@@ -14598,7 +14598,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p><strong>Abstract</strong> The infinite tower iteration $c_{n+1} = e^{c_n} \lambda$ starting with $c_1 = 0$ has stable two-cycles for some values of $\lambda$. We denote such a two-cycle by $B = e^A \lambda$ together with $A = e^B \lambda$.  Transforming variables by $\zeta e^{-\zeta} = \lambda$, which simplifies things considerably in the one-cycle case, the region of the $\zeta$ plane which contains the parameter values which give rise to these steady two-cycles looks vaguely like an insect larva, with curiously "scalloped" edges.  In this paper we look at the details of an analytic expression for the two-cycles in order to understand why this region looks the way it does.  We give a complete explanation of the cusps on the boundary that give the "scalloped" look.</p>
+<p><strong>Abstract</strong> <p style='text-align: justify;'> The infinite tower iteration $c_{n+1} = e^{c_n} \lambda$ starting with $c_1 = 0$ has stable two-cycles for some values of $\lambda$. We denote such a two-cycle by $B = e^A \lambda$ together with $A = e^B \lambda$.  Transforming variables by $\zeta e^{-\zeta} = \lambda$, which simplifies things considerably in the one-cycle case, the region of the $\zeta$ plane which contains the parameter values which give rise to these steady two-cycles looks vaguely like an insect larva, with curiously "scalloped" edges.  In this paper we look at the details of an analytic expression for the two-cycles in order to understand why this region looks the way it does.  We give a complete explanation of the cusps on the boundary that give the "scalloped" look. </p></p>
 
 </div>
 </div>
@@ -14640,9 +14640,10 @@ Publication rights licensed to Maple Transactions, under Creative CommonsCC-BY 4
 <h3 id="Introduction">Introduction<a class="anchor-link" href="#Introduction">&#182;</a></h3><p>The well-studied infinite exponential tower
 \begin{equation}
     z^{z^{z^{\cdot^{\cdot^{\cdot}}}}} = y
-\end{equation}
-can be rewritten as the iteration $a_{n+1} = z^{a_n}$ or, equivalently via $a_n = e^{c_n}$, as $c_{n+1} = e^{c_n}\ln z$.  To neaten things further, write $\lambda$ for $\ln z$.  If we transform by $\zeta e^{-\zeta} = \lambda = \ln z$, then the values of $z$ which lead to convergence of the iteration (i.e. to a one-cycle) are described by $|\zeta|&lt;1$ and those values of $\zeta$ on the unit circle which have angles $r\pi$ for some rational number $r$.</p>
-<p>Pictorially, this is
+\end{equation}</p>
+<p style='text-align: justify;'> 
+can be rewritten as the iteration $a_{n+1} = z^{a_n}$ or, equivalently via $a_n = e^{c_n}$, as $c_{n+1} = e^{c_n}\ln z$.  To neaten things further, write $\lambda$ for $\ln z$.  If we transform by $\zeta e^{-\zeta} = \lambda = \ln z$, then the values of $z$ which lead to convergence of the iteration (i.e. to a one-cycle) are described by $|\zeta|<1$ and those values of $\zeta$ on the unit circle which have angles $r\pi$ for some rational number $r$.  
+</p><p>Pictorially, this is
 <img 
     style="display: block; 
            margin-left: auto;
@@ -14651,9 +14652,11 @@ can be rewritten as the iteration $a_{n+1} = z^{a_n}$ or, equivalently via $a_n 
     src="Image3.png" 
     alt="The infinite tower fractal">
 </img></p>
-<p>We can see the unit disk in purple, and extending to the left (in the $\zeta$ plane) we see the curiously scalloped region where two-cycles are stable, depicted in a kind of green colour.  In particular, for real values of $z$ in the interval $(0, e^{-e})$, there exists a stable two-cycle.</p>
-<p>This image, obtained by numerical computation for many values of $z$ and post-processing to detect cycle length, is described in more detail in our previous paper (listed below, in the references section). The purpose of this present note is to explain the scalloped shape of the region where the two-cycles are stable, and incidentally to confirm that its appearance in the figure is genuine and not a numerical artifact.</p>
-
+<p style='text-align: justify;'> 
+We can see the unit disk in purple, and extending to the left (in the $\zeta$ plane) we see the curiously scalloped region where two-cycles are stable, depicted in a kind of green colour.  In particular, for real values of $z$ in the interval $(0, e^{-e})$, there exists a stable two-cycle.  
+</p><p style='text-align: justify;'> 
+This image, obtained by numerical computation for many values of $z$ and post-processing to detect cycle length, is described in more detail in our previous paper (listed below, in the references section). The purpose of this present note is to explain the scalloped shape of the region where the two-cycles are stable, and incidentally to confirm that its appearance in the figure is genuine and not a numerical artifact.
+</p>
 </div>
 </div>
 </div>
@@ -14802,7 +14805,7 @@ This means that given a value for $B$, we can find a value for $A$ which gives a
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[3]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-maple"><pre><span></span>alias( W = LambertW );
+<div class=" highlight hl-maple"><pre><span></span>alias( W = LambertW ):
 B := evalf(Pi):
 seq( W(k,B*exp(B)), k=-5..5 )
 </pre></div>
@@ -14818,20 +14821,6 @@ seq( W(k,B*exp(B)), k=-5..5 )
 
 
 <div class="jp-OutputArea jp-Cell-outputArea">
-
-<div class="jp-OutputArea-child">
-
-    
-    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-
-
-
-
-<div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
-<pre>                                       W</pre>
-</div>
-
-</div>
 
 <div class="jp-OutputArea-child">
 
@@ -14857,7 +14846,7 @@ $$ 0.888862317711764- 29.8748742731569 \,\mathrm{I}, 1.12354241139897- 23.609497
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>For instance, let us take the case $k=3$ case.</p>
+<p>For instance, let us take the case $k=3$.</p>
 
 </div>
 </div>
@@ -15072,6 +15061,20 @@ $$ 6.9\times 10^{-13}- 1.0\times 10^{-13} \mathrm{I}$$
 <div class="jp-OutputArea-child">
 
     
+    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
+
+
+
+
+<div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
+<pre>kilobytes used=5310, alloc=10801, time=0.55</pre>
+</div>
+
+</div>
+
+<div class="jp-OutputArea-child">
+
+    
     <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[8]:</div>
 
 
@@ -15202,7 +15205,7 @@ $$ 0.584976303412482$$
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>What about a different value of $k$?  The value $k=3$ was chosen on a whim.</p>
+<p>What about a different value of $k$?  The value $k=3$ was chosen on a whim. Let's go with another whim and take $k=8$.</p>
 
 </div>
 </div>
@@ -15506,7 +15509,7 @@ W_k\left(B e^B\right)B = e^{i\theta} .
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h3 id="Using-Karamata's-series-for-$k=1$-and-$k=-1$">Using Karamata's series for $k=1$ and $k=-1$<a class="anchor-link" href="#Using-Karamata's-series-for-$k=1$-and-$k=-1$">&#182;</a></h3><p>We are going to use <em>path following</em> to trace out the curve defined by $W_k(B\exp B)B = \exp(i\theta)$.  A natural place to start is where the two-cycles meet the one-cycles, at $\zeta=-1$.  However, the degree of contact there is greater than one; that is, there is a multiple root there.  This makes path-following methods cranky.  We will need a special way to get started, and it turns out that there is some classical theory available that will help.</p>
-<p>The equation $A\exp A = B \exp B$ really says that $A$ and $B$ are two different branch values of the Lambert $W$ function of the same thing.  If the branch indices are the same, then $A=B$ and the two-cycle is really a one-cycle, so we exclude that case. We now look at the case where $B$ is in the range of the zeroth branch of Lambert~$W$ and $A$ is in either the $k=1$ branch or the $k=-1$ branch.  Moreover we presume that both $A$ and $B$ are such that $\lambda = A\exp(-B) = B\exp(-A)$ is near to $-e$, so that $\zeta$ is near to $-1$, corresponding to the right end of the figure.  In this case, we can say that $B = -1+\mu$ and think of $\mu &gt; 0$ while $A = -1 - \sigma$ and again think of $\sigma &gt; 0$.  The fundamental equation $A\exp A = B \exp B$ then becomes
+<p>The equation $A\exp A = B \exp B$ really says that $A$ and $B$ are two different branch values of the Lambert $W$ function of the same thing.  If the branch indices are the same, then $A=B$ and the two-cycle is really a one-cycle, so we exclude that case. We now look at the case where $B$ is in the range of the zeroth branch of Lambert $W$ and $A$ is in either the $k=1$ branch or the $k=-1$ branch.  Moreover we presume that both $A$ and $B$ are such that $\lambda = A\exp(-B) = B\exp(-A)$ is near to $-e$, so that $\zeta$ is near to $-1$, corresponding to the right end of the figure.  In this case, we can say that $B = -1+\mu$ and think of $\mu &gt; 0$ while $A = -1 - \sigma$ and again think of $\sigma &gt; 0$.  The fundamental equation $A\exp A = B \exp B$ then becomes
 \begin{equation}
 -(1+\sigma)e^{-1-\sigma} = (-1+\mu)e^{-1+\mu}
 \end{equation}
@@ -16161,20 +16164,6 @@ $$ 1.03986308156898$$
 <div class="jp-OutputArea-child">
 
     
-    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-
-
-
-
-<div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
-<pre>kilobytes used=9300, alloc=14417, time=0.86</pre>
-</div>
-
-</div>
-
-<div class="jp-OutputArea-child">
-
-    
     <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[28]:</div>
 
 
@@ -16704,7 +16693,7 @@ plots[display]( lineplot0, lineplot1,zplot[1],approxzetaplot, view=[-3.0..-1,0..
 
 
 <div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
-<pre>kilobytes used=228262, alloc=18513, time=22.47</pre>
+<pre>kilobytes used=227868, alloc=18480, time=17.48</pre>
 </div>
 
 </div>
@@ -16829,7 +16818,7 @@ end do:
 
 
 <div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
-<pre>kilobytes used=234584, alloc=18513, time=23.25</pre>
+<pre>kilobytes used=234716, alloc=18480, time=17.98</pre>
 </div>
 
 </div>
@@ -16982,7 +16971,7 @@ end do:
 
 
 <div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
-<pre>kilobytes used=3262836, alloc=18513, time=365.92</pre>
+<pre>kilobytes used=3267635, alloc=18480, time=281.95</pre>
 </div>
 
 </div>
@@ -17133,20 +17122,6 @@ plots[display]( nautilus[3], branchcut[3] );
 <div class="jp-OutputArea-child">
 
     
-    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-
-
-
-
-<div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
-<pre>kilobytes used=3268129, alloc=18513, time=366.52</pre>
-</div>
-
-</div>
-
-<div class="jp-OutputArea-child">
-
-    
     <div class="jp-OutputPrompt jp-OutputArea-prompt">Out[45]:</div>
 
 
@@ -17263,7 +17238,7 @@ plots[display]( seq( zetaplot[k], k=2..Ncrossings),
 
 
 <div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
-<pre>kilobytes used=3280590, alloc=18513, time=367.98</pre>
+<pre>kilobytes used=3284329, alloc=18480, time=283.67</pre>
 </div>
 
 </div>
@@ -17574,7 +17549,7 @@ $$ 0.0869022106565601, 0.0940892842462753, 0.0910557419553667, 0.086351356416161
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h3 id="Concluding-remarks">Concluding remarks<a class="anchor-link" href="#Concluding-remarks">&#182;</a></h3><p>One thing to aspire to is to explain the scalloped shape of the <em>three</em>-cycle stability region.  We do not have an analytic formula for the boundary, however.  At least, we do not have one any more convenient than simply multiplying the three-cycle together.</p>
+<h3 id="Concluding-remarks">Concluding remarks<a class="anchor-link" href="#Concluding-remarks">&#182;</a></h3><p>One thing to aspire to is to explain the scalloped shape of the <em>three</em>-cycle stability region.  At the time of writing this, we did not have an analytic formula for the boundary; however, we now think we do, by generalizing Euler's parametric solution (see Appendix A).  We will pursue this in a future paper.</p>
 <p>Another thing to aspire to would be to try to get Maple to make an even better image of this fractal.</p>
 <p>However, we were pleased to have explained here the appearance of the stable two-cycle region analytically, and incidentally to thereby confirm the numerical computation which originally showed us this shape.</p>
 
@@ -17790,20 +17765,6 @@ we do not think so, but we have not tried.</p>
 
 
 <div class="jp-OutputArea jp-Cell-outputArea">
-
-<div class="jp-OutputArea-child">
-
-    
-    <div class="jp-OutputPrompt jp-OutputArea-prompt"></div>
-
-
-
-
-<div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
-<pre>kilobytes used=3286376, alloc=22609, time=368.69</pre>
-</div>
-
-</div>
 
 <div class="jp-OutputArea-child">
 
@@ -18120,7 +18081,7 @@ zeros150 := fsolve( convert(K150,polynom), mu, complex ):
 
 
 <div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
-<pre>kilobytes used=4982924, alloc=26062, time=450.47</pre>
+<pre>kilobytes used=4933868, alloc=25964, time=343.12</pre>
 </div>
 
 </div>
@@ -18273,7 +18234,7 @@ $$1-\frac{1}{3} \mu^{2}-\frac{2}{9} \mu^{3}-\frac{16}{135} \mu^{4}-\frac{28}{405
 
 
 <div class="jp-RenderedText jp-OutputArea-output " data-mime-type="text/plain">
-<pre>kilobytes used=5099987, alloc=29134, time=463.19</pre>
+<pre>kilobytes used=5064108, alloc=29036, time=354.67</pre>
 </div>
 
 </div>
