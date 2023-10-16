@@ -91,6 +91,7 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 A free Maple Player which can read these items is available at <A HREF="https://www.maplesoft.com/products/maple/Mapleplayer/"> Mapleplayer </A> .
 
 <OL>
+ <LI> <a href="BohemianMatricesCardiff.pdf"> Talk slides for Cardiff October 16 2023 </a> </LI>
  <LI> <a href="TeachingLinearAlgebraMechanized__Environment.pdf"> Talk slides for CICM (Cambridge) Sept 2023 </a> </LI>
   <LI> <A HREF="Blendstrings__Numerical_Analysis_in_the_21st_Century_.pdf"> Talk slides for Blendstrings: An Environment for Computing with Smooth Functions, Numerical Analysis in the 21st century, Oxford, Aug 2023 </A></LI>
   <LI> <A HREF="TeachingMechanizedEnvironment__Talk_.pdf"> Talk slides for Teaching Mathematics in a Mechanized Environment (CUNEF 2023-06-28) </A>
