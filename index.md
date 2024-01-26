@@ -26,14 +26,19 @@ Chapter 5 (or is it Unit 5?  With a Jupyter Book the old words for divisions of 
 
 
  
-<H4> The Bohemian Calendar 2023 is out! (Many images produced by the code from the book above) </H4>   <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Licensed under CC-by-SA 4.0. </A>
-  <ul>
+<H4> The Computational Discovery on Jupyter Calendar 2024 is out! (Many images produced by the code from the book above) </H4>   <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Licensed under CC-by-SA 4.0. </A>
+
+<A HREF="2024CALENDARCDJ.PDF"> Computational Discovery on Jupyter Calendar 2024 </A>
+
+For a description of the images, see <A HREF="https://github.com/Computational-Discovery-on-Jupyter/Computational-Discovery-on-Jupyter/blob/master/CalendarImageDescriptions.pdf"> the link to the CDJ repository  </A>
+
+<!--   <ul>
     <li> <A HREF="2023_Bohemian_Wall_CalendarLetterSunday.pdf"> Letter paper, week starts Sunday </A> </li>
     <li> <A HREF="2023_Bohemian_Wall_CalendarLetterMonday.pdf"> Letter paper, week starts Monday </A> </li>
     <li> <A HREF="2023_Bohemian_Wall_CalendarA4Sunday.pdf"> A4 paper, week starts Sunday </A> </li>
     <li> <A HREF="2023_Bohemian_Wall_CalendarA4Monday.pdf"> A4 paper, week starts Monday </A> </li>
   </ul>
-
+ -->
 See <A HREF="https://www.bohemianmatrices.com"> bohemianmatrices.com </A> for more information about Bohemian matrices.  
 
 <!-- But here's an image, just for a teaser.
