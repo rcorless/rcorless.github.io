@@ -5,24 +5,22 @@ I am the Editor-in-Chief for <A HREF="http://www.mapletransactions.org"> Maple T
 
 <p><A HREF="https://en.wikipedia.org/wiki/Bohemian_matrices"> The Wikipedia entry on Bohemian Matrices </A></p>
 
-<H4> My new book, with Neil Calkin and Eunice Chan! Open access, and in beta: comments welcome! </H4>
+<H4> My new book, with Neil Calkin and Eunice Chan! Open access, Open Educational Resource version </H4>
 <p><A HREF="https://computational-discovery-on-jupyter.github.io/Computational-Discovery-on-Jupyter/index.html"> Computational Discovery on Jupyter </A>
 
 Chapter 5 (or is it Unit 5?  With a Jupyter Book the old words for divisions of a book are a bit obsolete) covers Bohemian matrices at an entry level.
  
-<H4> Proposed Cover Design </H4>
- 
- <A HREF="https://github.com/rcorless/rcorless.github.io/blob/main/OT190_CALKIN_COVER_VERIDIS_NEW_B_V3.pdf"> Have a look! </A>
- 
+The book has now been published by SIAM.  You can find it at 
+<A HREF="https://epubs.siam.org/doi/book/10.1137/1.9781611977509"> The SIAM Bookstore online </A>
 
 <H4> Jupyter and Maple </H4> 
 <p> A version of the book using the Maple kernel for Jupyter notebooks is under construction.  Here is one such notebook, which validates a hand computation of approximate zeros of the Fibonacci function. </p>
 
 <A HREF="Approximate Fibonacci Zeros.ipynb"> An example Jupyter notebook linking to a Maple kernel. </A>
 
-<p>Here is another, which is a draft of a paper for Maple transactions.</p>
+<p>Here is another, which is a paper in Maple transactions.</p>
 
-<A HREF="Two-cycles.html"> Two-cycles in the infinite exponential tower </A>
+<A HREF="https://mapletransactions.org/index.php/maple/article/view/17247"> Two-cycles in the infinite exponential tower </A>
 
 
  
