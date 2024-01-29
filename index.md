@@ -26,7 +26,7 @@ The book has now been published by SIAM.  You can find it at
  
 <H4> The Computational Discovery on Jupyter Calendar 2024 is out! (Many images produced by the code from the book above) </H4>   <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Licensed under CC-by-SA 4.0. </A>
 
-<A HREF="2024CALENDARCDJ.PDF"> Computational Discovery on Jupyter Calendar 2024 </A>
+<A HREF="2024CALENDARCDJ.PDF"> Link to a PDF of the Computational Discovery on Jupyter Calendar 2024 </A>
 
 For a description of the images, see <A HREF="https://github.com/Computational-Discovery-on-Jupyter/Computational-Discovery-on-Jupyter/blob/master/CalendarImageDescriptions.pdf"> the link to the CDJ repository  </A>
 
