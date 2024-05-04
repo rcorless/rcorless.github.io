@@ -97,6 +97,7 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 A free Maple Player which can read these items is available at <A HREF="https://www.maplesoft.com/products/maple/Mapleplayer/"> Mapleplayer </A> .
 
 <OL>
+ <LI> <a href="SurprisingCompanions.html"> HTML version of my talk Surprising Companions for DW75 in Leuven </LI>
 <LI> <a href="Exploring_the_Butcher_Factor.ipynb"> Jupyter Notebook for Part II of my talk 2024-03-25 at woRK2024 </A> </LI>
 <LI> <a href="The_Butcher_Factor.pdf"> Slides for Part I of my talk 2024-03-25 at woRK2024 </A> </LI>
  <LI> <a href="Moler_s_Law.pdf"> Talk slides for guest lecture 2023-11-06 at CUNEF: Moler's Law </a> </LI>
