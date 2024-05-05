@@ -16334,9 +16334,9 @@ class="
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Conditioning still plays a role, though.</p>
-<p>Remember, <a href="https://cs.uwaterloo.ca/~smwatt/pub/reprints/2004-synasc-lagrange.pdf">Bernstein bases are optimal, but, sometimes, Lagrange bases are better (2004)</a></p>
-<p>(Not published in a good place)</p>
+<p>The backward error bounds for simple QZ applied to a companion pencil contains a factor $\| p\|^2$, I believe.  Say, $10^6$, then?  Conditioning still plays a role, though, making the error bound about $10^{18}$. That explains some of what we saw.</p>
+<p>Why are Lagrange and Hermite interpolational bases better? Besides <a href="https://doi.org/10.1137/140979034">the backward error results of 2015</a>, the condition numbers are also good. Remember, <a href="https://cs.uwaterloo.ca/~smwatt/pub/reprints/2004-synasc-lagrange.pdf">Bernstein bases are optimal, but, sometimes, Lagrange bases are better (2004)</a></p>
+<p>(the 2015 paper was published in a good place, but the 2004 paper was not)</p>
 <p>Reiscovered independently and published in 2019 in <a href="https://www.sciencedirect.com/science/article/pii/S0021904517300801">Journal of Approximation Theory</a> by Carnicer, Khiar, and Peña.  A <em>much</em> better place!  A better paper, too, he says somewhat grudgingly.</p>
 <p>But in this case, we really want the <em>structured</em> condition number anyway.</p>
 
