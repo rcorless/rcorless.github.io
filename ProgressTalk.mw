@@ -198,7 +198,7 @@ end proc:
 </Output>
 </Group>
 <Group labelreference="L22" drawlabel="true" applyint="true" applyrational="true" applyexponent="false">
-<Input><Text-field style="Text" layout="Normal">This polynomial is one of 54 that have <Font italic="true">maximal characteristic height </Font>out of all Upper Hessenberg Toeplitz matrices with zero diagonal and subdiagonal -1, with entries from -1, 0, or 1.  So its minimal height companion matrix also has height 1.</Text-field><Text-field style="Text" layout="Normal"></Text-field><Text-field style="Text" layout="Normal">(Hadamard matrices have maximal determinant: is there anything known about matrices that have maximal characteristic height?)</Text-field>
+<Input><Text-field style="Text" layout="Normal">This polynomial is one of 54 that have <Font italic="true">maximal characteristic height </Font>out of all Upper Hessenberg Toeplitz matrices with zero diagonal and subdiagonal -1, with entries from -1, 0, or 1.  So its minimal height companion matrix also has height 1.</Text-field><Text-field style="Text" layout="Normal"></Text-field><Text-field style="Text" layout="Normal">(Hadamard matrices have maximal determinant: is there anything known about matrices that have maximal characteristic height?  For instance, none of those 54 is unimodal, although I had hoped at least one would be)</Text-field>
 </Input>
 </Group>
 </Section>
