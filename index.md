@@ -97,6 +97,7 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 A free Maple Player which can read these items is available at <A HREF="https://www.maplesoft.com/products/maple/Mapleplayer/"> Mapleplayer </A> .
 
 <OL>
+ <LI> <a href="FloatsforPhilosophers.pdf"> Floats for Philosophers </a> My talk for the Rotman Institute Computational Epistemology seminar </LI>
  <LI> <a href="Hermite_Interpolational_Bohemians__Talk_for_LALO_60_%20(2).pdf"> Slides for my talk "Hermite Interpolational Bohemians" at LALO60 </a> </LI>
  <LI> <a href="Perturbation_methods_using_backward_error.pdf"> Slides for my talk "Perturbation methods using backward error" at GO20 in Malta </a></LI>
  <LI> <a href="SurprisingCompanions.html"> HTML version of my talk Surprising Companions for DW75 in Leuven </a> </LI>
