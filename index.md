@@ -1,6 +1,8 @@
 <H4> Maple Transactions </H4>
 I am the Editor-in-Chief for <A HREF="http://www.mapletransactions.org"> Maple Transactions </A>, a new open-access scholarly journal.  The purpose of Maple Transactions is to disseminate excellent expositions on topics of interest to the Maple community.  There are no page charges, and you need not use Maple to be published in this journal.
 
+I am also on the executive for the <a href="https://carmamaths.org/"> Computer Assisted Research in Mathematics and Applications (CARMA) centre </A>, and a member of the <a href="https://www.rotman.uwo.ca/"> Rotman Institute of Philosophy. </a>
+
 <H4> My current obsession: Bohemian Matrices </H4>
 
 <p><A HREF="https://en.wikipedia.org/wiki/Bohemian_matrices"> The Wikipedia entry on Bohemian Matrices </A></p>
@@ -10,7 +12,7 @@ I am the Editor-in-Chief for <A HREF="http://www.mapletransactions.org"> Maple T
 
 Chapter 5 (or is it Unit 5?  With a Jupyter Book the old words for divisions of a book are a bit obsolete) covers Bohemian matrices at an entry level.
  
-The book has now been published by SIAM.  You can find it at 
+The book has now been published by SIAM (November 2023).  You can find it at 
 <A HREF="https://epubs.siam.org/doi/book/10.1137/1.9781611977509"> The SIAM Bookstore online </A>
 
 <H4> Jupyter and Maple </H4> 
@@ -74,6 +76,7 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 
 <H4> Books </H4>
 <OL>
+ <LI> <A HREF="https://epubs.siam.org/doi/book/10.1137/1.9781611977509"> Computational Discovery on Jupyter, at The SIAM Bookstore online </A> </LI> by myself and Neil Calkin and Eunice Chan.
 <LI> <a href="https://www.springer.com/us/book/9783030816971"> Maple in Mathematics Education and Research </a> an edited 2021 volume containing selected papers from the <a href="https://de.maplesoft.com/mapleconference/2020/"> Maple Conference 2020 </a>.  Videos of talks still available at that link. </LI>
 <LI> <a href="https://www.springer.com/us/book/9781493990504"> Algorithms and Complexity in Mathematics, Epistemology and Science (ACMES) </a> An edited 2019 volume containing papers from the <a href="http://acmes.org/">Computational Discovery/Computational Epistemology conferences </a></LI>
 <LI> <a href="http://www.nfillion.com/">Nic Fillion </a> and I wrote <a href="https://www.springer.com/gp/book/9781461484523">“A Graduate Introduction to Numerical Methods, From the Viewpoint of Backward Error Analysis”</a> together for 2013. Here are some excerpts from <a href="http://www.bookmetrix.com/detail_full/book/0b3312d9-f0a9-4fe1-b700-37c52a50220d#reviews"> reviews of the book </a></LI>
