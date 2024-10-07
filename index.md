@@ -97,9 +97,10 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 </OL>
 
 <H4> Maple Documents and Workbooks and Worksheets and PDFs from talks </H4>
-A free Maple Player which can read these items is available at <A HREF="https://www.maplesoft.com/products/maple/Mapleplayer/"> Mapleplayer </A> .
+A free Maple Player which can read Maple Worksheets is available at <A HREF="https://www.maplesoft.com/products/maple/Mapleplayer/"> Mapleplayer </A> .  Some talks are in pdf, some in html, and some are Maple worksheets or workbooks or links to the Maple Cloud.
 
 <OL>
+ <LI> <a href="https://maple.cloud/app/4792447715115008/Gamma+and+Factorial+in+the+Monthly"> Gamma and Factorial in the Monthly </a> a talk given at Aalto 2024-10-08; Maple worksheet stored on the Maple Cloud </LI>
  <LI> <a href="FloatsForPhilosophers.pdf"> Floats for Philosophers </a> My talk for the Rotman Institute Computational Epistemology seminar </LI>
  <LI> <a href="Hermite_Interpolational_Bohemians__Talk_for_LALO_60_%20(2).pdf"> Slides for my talk "Hermite Interpolational Bohemians" at LALO60 </a> </LI>
  <LI> <a href="Perturbation_methods_using_backward_error.pdf"> Slides for my talk "Perturbation methods using backward error" at GO20 in Malta </a></LI>
