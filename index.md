@@ -76,6 +76,7 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 
 <H4> Books </H4>
 <OL>
+ <LI> <A HREF="https://github.com/rcorless/Perturbation-Methods-in-Maple"> Perturbation Methods using backward error, FORTHCOMING from SIAM. </A> Link goes to a repository here with subdirectories containing Maple worksheets and Jupyter Notebooks (and html from such) using a Maple kernel, which contain support material for the book.  Comments welcome on the support material (email me at rcorless at uwo.ca )</LI>
  <LI> <A HREF="https://epubs.siam.org/doi/book/10.1137/1.9781611977509"> Computational Discovery on Jupyter, at The SIAM Bookstore online </A> </LI> by myself and Neil Calkin and Eunice Chan.
 <LI> <a href="https://www.springer.com/us/book/9783030816971"> Maple in Mathematics Education and Research </a> an edited 2021 volume containing selected papers from the <a href="https://de.maplesoft.com/mapleconference/2020/"> Maple Conference 2020 </a>.  Videos of talks still available at that link. </LI>
 <LI> <a href="https://www.springer.com/us/book/9781493990504"> Algorithms and Complexity in Mathematics, Epistemology and Science (ACMES) </a> An edited 2019 volume containing papers from the <a href="http://acmes.org/">Computational Discovery/Computational Epistemology conferences </a></LI>
@@ -92,7 +93,7 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 <H4> Code Repositories for Books and Papers </H4>
 
 <OL>
-  <LI> <A HREF="https://github.com/rcorless/Perturbation-Methods-in-Maple">Perturbation Methods in Maple</A> from the ACMES book listed above </LI>
+  <LI> <A HREF="https://github.com/rcorless/Perturbation-Methods-in-Maple">Perturbation Methods in Maple</A> from the ACMES book listed above, and now containing in subfolders the supporting material for our new book. </LI>
   <LI> <a href="http://www.nfillion.com/coderepository/index.php"> Nic Fillion's code repository for "A Graduate Introduction to Numerical Methods, From the Viewpoint of Backward Error Analysis" </a> </LI>
 </OL>
 
