@@ -101,7 +101,8 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 A free Maple Player which can read Maple Worksheets is available at <A HREF="https://www.maplesoft.com/products/maple/Mapleplayer/"> Mapleplayer </A> .  Some talks are in pdf, some in html, and some are Maple worksheets or workbooks or links to the Maple Cloud.
 
 
-<OL>
+<OL> 
+   <LI> <a href="DoubleEigenvalueMathieu.pdf"> Slides for CAIMS/SIAM: Computing Generalized Mathieu Functions </a> </LI>
   <LI> <a href="MaxSpreadSymmetricBohemianTalk.pdf"> Slides for ACA 2025 Symbolic Linear Algebra: Maximum Spread of Symmetric Bohemian Matrices </a> </LI>
  <LI> <a href="AnalysisVSAlgebraTalk (4).pdf"> for ACA 2025 History of Computer Algebra: Analysis vs Algebra </a> </LI>
  <LI> <a href="Structured_backward_error_for_the_WKB_method__a_case_study_in_computational_epistemology.pdf"> Talk slides Computational Epistemology and George Green  (1793&ndash;1841) (Dubrovnik, April 2025) </a></LI>
