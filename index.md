@@ -102,7 +102,7 @@ A free Maple Player which can read Maple Worksheets is available at <A HREF="htt
 
 
 <OL> 
-   <LI> <a href="DoubleEigenvalueMathieu.pdf"> Slides for CAIMS/SIAM: Computing Generalized Mathieu Functions </a> </LI>
+   <LI> <a href="DoubleEigenvalueMathieu.pdf"> Slides for CAIMS/SIAM: Computing Generalized Mathieu Functions </a>.  The supporting Maple workbook <a href="https://maple.cloud/app/5425885989961728/Computation+of+Generalized+Mathieu+Functions"> can be found in a readable form at this link on the Maple Cloud. </a> </LI>
   <LI> <a href="MaxSpreadSymmetricBohemianTalk.pdf"> Slides for ACA 2025 Symbolic Linear Algebra: Maximum Spread of Symmetric Bohemian Matrices </a> </LI>
  <LI> <a href="AnalysisVSAlgebraTalk (4).pdf"> for ACA 2025 History of Computer Algebra: Analysis vs Algebra </a> </LI>
  <LI> <a href="Structured_backward_error_for_the_WKB_method__a_case_study_in_computational_epistemology.pdf"> Talk slides Computational Epistemology and George Green  (1793&ndash;1841) (Dubrovnik, April 2025) </a></LI>
