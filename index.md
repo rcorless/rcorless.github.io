@@ -1,5 +1,5 @@
 <H4> Maple Transactions </H4>
-I am the Editor-in-Chief for <A HREF="http://www.mapletransactions.org"> Maple Transactions </A>, a new open-access scholarly journal.  The purpose of Maple Transactions is to disseminate excellent expositions on topics of interest to the Maple community.  There are no page charges, and you need not use Maple to be published in this journal.
+I am the Editor-in-Chief for <A HREF="http://www.mapletransactions.org"> Maple Transactions </A>, a new open-access scholarly journal.  The purpose of Maple Transactions is to disseminate excellent expositions on topics of interest to the Maple community.  There are no page charges or fees of any kind, and you need not use Maple to be published in this journal.
 
 I am also on the executive for the <a href="https://carmamaths.org/"> Computer Assisted Research in Mathematics and Applications (CARMA) centre </A>, and a member of the <a href="https://www.rotman.uwo.ca/"> Rotman Institute of Philosophy. </a>
 
