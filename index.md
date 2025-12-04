@@ -1,5 +1,5 @@
 <H4> Maple Transactions </H4>
-I am the Editor-in-Chief for <A HREF="http://www.mapletransactions.org"> Maple Transactions </A>, a new open-access scholarly journal.  The purpose of Maple Transactions is to disseminate excellent expositions on topics of interest to the Maple community.  There are no page charges or fees of any kind, and you need not use Maple to be published in this journal.
+I am the Editor-in-Chief for <A HREF="http://www.mapletransactions.org"> Maple Transactions </A>, a "diamond class" open-access scholarly journal.  The purpose of Maple Transactions is to disseminate excellent expositions on topics of interest to the Maple community.  What "diamond class" means is that there are no page charges or fees of any kind, and you need not use Maple to be published in this journal.
 
 I am also on the executive for the <a href="https://carmamaths.org/"> Computer Assisted Research in Mathematics and Applications (CARMA) centre </A>, and a member of the <a href="https://www.rotman.uwo.ca/"> Rotman Institute of Philosophy. </a>
 
@@ -7,12 +7,12 @@ I am also on the executive for the <a href="https://carmamaths.org/"> Computer A
 
 <p><A HREF="https://en.wikipedia.org/wiki/Bohemian_matrices"> The Wikipedia entry on Bohemian Matrices </A></p>
 
-<H4> My new book, with Neil Calkin and Eunice Chan! Open access, Open Educational Resource version </H4>
+<H4> My book, with Neil Calkin and Eunice Chan: Open access, Open Educational Resource version </H4>
 <p><A HREF="https://computational-discovery-on-jupyter.github.io/Computational-Discovery-on-Jupyter/index.html"> Computational Discovery on Jupyter </A>
 
 Chapter 5 (or is it Unit 5?  With a Jupyter Book the old words for divisions of a book are a bit obsolete) covers Bohemian matrices at an entry level.
  
-The book has now been published by SIAM (November 2023).  You can find it at 
+The book was published by SIAM in November 2023.  You can find it at 
 <A HREF="https://epubs.siam.org/doi/book/10.1137/1.9781611977509"> The SIAM Bookstore online </A>
 
 <H4> Jupyter and Maple </H4> 
@@ -26,13 +26,15 @@ The book has now been published by SIAM (November 2023).  You can find it at
 
 
  
-<H4> The Computational Discovery on Jupyter Calendar 2024 is out! (Many images produced by the code from the book above) </H4>   <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Licensed under CC-by-SA 4.0. </A>
+<!-- <H4> The Computational Discovery on Jupyter Calendar 2024 is out! (Many images produced by the code from the book above) </H4>   <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Licensed under CC-by-SA 4.0. </A> -->
 
-<p>
+<H4> The "Perturbation Methods Using Backward Error" 2026 Desk Calendar will be distributed by SIAM early next year (hopefully at the JMM). <H4>
+ All images in the calendar were produced in Maple.  <A HREF="CORLESS_SIAM_DeskCalendar_2026_6x3.pdf"> A PDF Version can be found at this link </A>.  The calendar is to help market My New Book with Nic Fillion, "Perturbation Methods Using Backward Error", available early next year.
+<!-- <p>
 <A HREF="2024CALENDARCDJ.pdf"> Link to a PDF of the Computational Discovery on Jupyter Calendar 2024 </A>
-</p>
+</p> -->
 
-<p>For a description of the images, see <A HREF="https://github.com/Computational-Discovery-on-Jupyter/Computational-Discovery-on-Jupyter/blob/master/CalendarImageDescriptions.pdf"> the link to the CDJ repository  </A>
+<p>For a description of the images, see <A HREF="https://doi.org/10.5206/mt.v5i4.24356"> the paper in Maple Transactions  </A>
 </p>
 
 <!--   <ul>
@@ -103,7 +105,7 @@ A free Maple Player which can read Maple Worksheets is available at <A HREF="htt
 
 <OL> 
    <LI> <a href="DoubleEigenvalueMathieu.pdf"> Slides for CAIMS/SIAM: Computing Generalized Mathieu Functions </a>.  The supporting Maple workbook <a href="https://maple.cloud/app/5425885989961728/Computation+of+Generalized+Mathieu+Functions"> can be found in a readable form at this link on the Maple Cloud. </a> </LI>
-  <LI> <a href="MaxSpreadSymmetricBohemianTalk.pdf"> Slides for ACA 2025 Symbolic Linear Algebra: Maximum Spread of Symmetric Bohemian Matrices </a> </LI>
+  <LI> <a href="MaxSpreadSymmetricBohemianTalk.pdf"> Slides for November 2025 talk at CUNEF, modified from the earlier ACA 2025 Symbolic Linear Algebra: Maximum Spread of Symmetric Bohemian Matrices </a> </LI>
  <LI> <a href="AnalysisVSAlgebraTalk (4).pdf"> for ACA 2025 History of Computer Algebra: Analysis vs Algebra </a> </LI>
  <LI> <a href="Structured_backward_error_for_the_WKB_method__a_case_study_in_computational_epistemology.pdf"> Talk slides Computational Epistemology and George Green  (1793&ndash;1841) (Dubrovnik, April 2025) </a></LI>
  <LI> <a href="Structured_backward_error_for_the_WKB_method__Geneva_.pdf"> Talk slides Structured Backward Error for WKB (Geneva 2025-04-15) </a></LI>
