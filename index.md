@@ -3,10 +3,26 @@ I am the Editor-in-Chief for <A HREF="http://www.mapletransactions.org"> Maple T
 
 I am also on the executive for the <a href="https://carmamaths.org/"> Computer Assisted Research in Mathematics and Applications (CARMA) centre </A>, and a member of the <a href="https://www.rotman.uwo.ca/"> Rotman Institute of Philosophy. </a>
 
+
+<hr>
+<H4> The "Perturbation Methods Using Backward Error" 2026 Desk Calendar will be distributed by SIAM early next year (hopefully at the JMM). </H4>
+ All images in the calendar were produced in Maple.  <A HREF="CORLESS_SIAM_DeskCalendar_2026_6x3.pdf"> A PDF Version can be found at this link </A>.  The calendar is to help market My New Book with Nic Fillion, "Perturbation Methods Using Backward Error", available early next year.
+<!-- <p>
+<A HREF="2024CALENDARCDJ.pdf"> Link to a PDF of the Computational Discovery on Jupyter Calendar 2024 </A>
+</p> -->
+
+<p>For a description of the images, see <A HREF="https://doi.org/10.5206/mt.v5i4.24356"> the paper in Maple Transactions  </A>
+</p>
+
+
+<hr>
+
+
 <H4> My current obsession: Bohemian Matrices </H4>
 
 <p><A HREF="https://en.wikipedia.org/wiki/Bohemian_matrices"> The Wikipedia entry on Bohemian Matrices </A></p>
-
+See <A HREF="https://www.bohemianmatrices.com"> bohemianmatrices.com </A> for more information about Bohemian matrices.  
+<hr>
 <H4> My book, with Neil Calkin and Eunice Chan: Open access, Open Educational Resource version </H4>
 <p><A HREF="https://computational-discovery-on-jupyter.github.io/Computational-Discovery-on-Jupyter/index.html"> Computational Discovery on Jupyter </A>
 
@@ -14,7 +30,7 @@ Chapter 5 (or is it Unit 5?  With a Jupyter Book the old words for divisions of 
  
 The book was published by SIAM in November 2023.  You can find it at 
 <A HREF="https://epubs.siam.org/doi/book/10.1137/1.9781611977509"> The SIAM Bookstore online </A>
-
+<hr>
 <H4> Jupyter and Maple </H4> 
 <p> A version of the book using the Maple kernel for Jupyter notebooks is under construction.  Here is one such notebook, which validates a hand computation of approximate zeros of the Fibonacci function. </p>
 
@@ -28,15 +44,6 @@ The book was published by SIAM in November 2023.  You can find it at
  
 <!-- <H4> The Computational Discovery on Jupyter Calendar 2024 is out! (Many images produced by the code from the book above) </H4>   <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Licensed under CC-by-SA 4.0. </A> -->
 
-<H4> The "Perturbation Methods Using Backward Error" 2026 Desk Calendar will be distributed by SIAM early next year (hopefully at the JMM). </H4>
- All images in the calendar were produced in Maple.  <A HREF="CORLESS_SIAM_DeskCalendar_2026_6x3.pdf"> A PDF Version can be found at this link </A>.  The calendar is to help market My New Book with Nic Fillion, "Perturbation Methods Using Backward Error", available early next year.
-<!-- <p>
-<A HREF="2024CALENDARCDJ.pdf"> Link to a PDF of the Computational Discovery on Jupyter Calendar 2024 </A>
-</p> -->
-
-<p>For a description of the images, see <A HREF="https://doi.org/10.5206/mt.v5i4.24356"> the paper in Maple Transactions  </A>
-</p>
-
 <!--   <ul>
     <li> <A HREF="2023_Bohemian_Wall_CalendarLetterSunday.pdf"> Letter paper, week starts Sunday </A> </li>
     <li> <A HREF="2023_Bohemian_Wall_CalendarLetterMonday.pdf"> Letter paper, week starts Monday </A> </li>
@@ -44,13 +51,12 @@ The book was published by SIAM in November 2023.  You can find it at
     <li> <A HREF="2023_Bohemian_Wall_CalendarA4Monday.pdf"> A4 paper, week starts Monday </A> </li>
   </ul>
  -->
-See <A HREF="https://www.bohemianmatrices.com"> bohemianmatrices.com </A> for more information about Bohemian matrices.  
 
 <!-- But here's an image, just for a teaser.
 
 ![A density plot in the complex plane of the Bohemian eigenvalues of a sample of 73 million 5x5 matrices where the entries are sampled from the set {-20, -1, 0, 1, 20}. Color represents the eigenvalue density. Viewed on -40 <= x,y <= 40. Image credit Steven E. Thornton.](Geometric_5x5.jpg)
  -->
-
+<hr>
 <h4> Research Interests </h4>
 
 <p>I have three major overlapping research areas: computational dynamical systems, computational algebra, and computational special functions, each of which is used in scientific and engineering applications. 
@@ -61,6 +67,8 @@ The main approach that I use is <A HREF="https://github.com/rcorless/rcorless.gi
 That link goes to a paper describing that idea in a <em>teaching</em> context, but it is a much broader idea, namely that the combination of human plus computer, especially equipped with thin slices of Artificial Intelligence, can be better than the human alone. 
 </p>
 
+<hr>
+<h4> Various Items </h4>
 <ul>
 <li><a HREF="https://github.com/rcorless/rcorless.github.io/blob/main/CV.pdf"> My academic CV</a> </li>
 <li><a HREF="https://scholar.google.ca/citations?user=SyLAxDkAAAAJ&hl=en"> My Google Scholar profile </a> </li>
@@ -75,7 +83,7 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 <p>
 <a href="https://www.growkudos.com/publications/10.1145%25252F3452143.3465547/reader"> ACM says "Kudos" are important.  Are they? Here is one of my papers, "kudo-ized." I suspect this fad will fade away.</a>
 </p>
-
+<hr>
 <H4> Books </H4>
 <OL>
  <LI> <A HREF="https://github.com/rcorless/Perturbation-Methods-in-Maple"> Perturbation Methods using backward error, FORTHCOMING from SIAM. </A> Link goes to a repository here with subdirectories containing Maple worksheets and Jupyter Notebooks (and html from such) using a Maple kernel, which contain support material for the book.  Comments welcome on the support material (email me at rcorless at uwo.ca )</LI>
@@ -85,13 +93,13 @@ That link goes to a paper describing that idea in a <em>teaching</em> context, b
 <LI> <a href="http://www.nfillion.com/">Nic Fillion </a> and I wrote <a href="https://www.springer.com/gp/book/9781461484523">“A Graduate Introduction to Numerical Methods, From the Viewpoint of Backward Error Analysis”</a> together for 2013. Here are some excerpts from <a href="http://www.bookmetrix.com/detail_full/book/0b3312d9-f0a9-4fe1-b700-37c52a50220d#reviews"> reviews of the book </a></LI>
   <LI> <a href="https://www.springer.com/us/book/9780387953526"> Essential Maple </A> 2nd edition, 2002, foolishly entitled "Essential Maple 7". </LI>
 </OL>
-
+<hr>
 <H4> Some Older Mathematical Visualizations </H4>
 <OL>
   <LI> <A HREF="http://www.orcca.on.ca/LambertW"> The Lambert W Function Poster </A> </LI>
   <LI> <A HREF="about.pdf"> About the 1998 UWO Applied Math Coffee Mug Design </A> (These mugs are collector's items, now) </LI>
 </OL>
-
+<hr>
 <H4> Code Repositories for Books and Papers </H4>
 
 <OL>
@@ -135,6 +143,6 @@ A free Maple Player which can read Maple Worksheets is available at <A HREF="htt
   <LI> <A HREF="https://github.com/rcorless/rcorless.github.io/blob/main/BlendsTalk.maple"> Blends in Maple </A> from the Maple Conference 2020 </LI>
   <LI> <A HREF="https://github.com/rcorless/rcorless.github.io/blob/main/InverseGammaTalk.mw"> The Functional Inverse of Gamma </A> from a number of places </LI>
 
-
+<hr>
 <H4> My allergies </H4>
 <A HREF="allergies.html"> My (boring) allergies, as of October 2021 </A>
