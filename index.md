@@ -28,7 +28,7 @@ The book was published by SIAM in November 2023.  You can find it at
  
 <!-- <H4> The Computational Discovery on Jupyter Calendar 2024 is out! (Many images produced by the code from the book above) </H4>   <A HREF="https://creativecommons.org/licenses/by-sa/4.0/"> Licensed under CC-by-SA 4.0. </A> -->
 
-<H4> The "Perturbation Methods Using Backward Error" 2026 Desk Calendar will be distributed by SIAM early next year (hopefully at the JMM). </H4>H4>
+<H4> The "Perturbation Methods Using Backward Error" 2026 Desk Calendar will be distributed by SIAM early next year (hopefully at the JMM). </H4>
  All images in the calendar were produced in Maple.  <A HREF="CORLESS_SIAM_DeskCalendar_2026_6x3.pdf"> A PDF Version can be found at this link </A>.  The calendar is to help market My New Book with Nic Fillion, "Perturbation Methods Using Backward Error", available early next year.
 <!-- <p>
 <A HREF="2024CALENDARCDJ.pdf"> Link to a PDF of the Computational Discovery on Jupyter Calendar 2024 </A>
