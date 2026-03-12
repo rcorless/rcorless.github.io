@@ -112,6 +112,7 @@ A free Maple Player which can read Maple Worksheets is available at <A HREF="htt
 
 
 <OL> 
+   <LI> <a href="https://maple.cloud/app/4819423434506240/Gamma+Function+Talk+at+U.+Cantabria"> Maple worksheet for my talk on the Gamma function at U. Cantabria 2026-03-13 </a> on the Maple Cloud so you should be able to read it even if you don't have Maple.  I expect to be able to cover about 3 sections out of 11 in the worksheet.</LI>
    <LI> <a href="DoubleEigenvalueMathieu.pdf"> Slides for CAIMS/SIAM: Computing Generalized Mathieu Functions </a>.  The supporting Maple workbook <a href="https://maple.cloud/app/5425885989961728/Computation+of+Generalized+Mathieu+Functions"> can be found in a readable form at this link on the Maple Cloud. </a> </LI>
   <LI> <a href="MaxSpreadSymmetricBohemianTalk.pdf"> Slides for November 2025 talk at CUNEF, modified from the earlier ACA 2025 Symbolic Linear Algebra: Maximum Spread of Symmetric Bohemian Matrices </a> </LI>
  <LI> <a href="AnalysisVSAlgebraTalk (4).pdf"> for ACA 2025 History of Computer Algebra: Analysis vs Algebra </a> </LI>
