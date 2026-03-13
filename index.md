@@ -6,7 +6,7 @@ I am also on the executive for the <a href="https://carmamaths.org/"> Computer A
 
 <hr>
 <H4> The "Perturbation Methods Using Backward Error" 2026 Desk Calendar will be distributed by SIAM early next year (hopefully at the JMM). </H4>
- All images in the calendar were produced in Maple.  <A HREF="CORLESS_SIAM_DeskCalendar_2026_6x3.pdf"> A PDF Version can be found at this link </A>.  The calendar is to help market My New Book with Nic Fillion, "Perturbation Methods Using Backward Error", available early next year.
+ All images in the calendar were produced in Maple.  <A HREF="CORLESS_SIAM_DeskCalendar_2026_6x3.pdf"> A PDF Version can be found at this link </A>.  The calendar is to help market My New Book with Nic Fillion, <a href="https://epubs.siam.org/doi/abs/10.1137/1.9781611978865">Perturbation Methods using backward error</a> available <b>April 2026</b>.
 <!-- <p>
 <A HREF="2024CALENDARCDJ.pdf"> Link to a PDF of the Computational Discovery on Jupyter Calendar 2024 </A>
 </p> -->
