@@ -112,6 +112,7 @@ A free Maple Player which can read Maple Worksheets is available at <A HREF="htt
 
 
 <OL> 
+    <LI> <a href="SelectionfromForty.pdf"> Slides for Forty Years of Illustration  </a>.  Talk given at the workshop Illustrating Research in Number Theory at the Institut Henri Poincaré </LI>
  <LI> <A href="Series Reversion by Cramer's Rule.html"> Lecture notes for CUNEF 2026-03-18 </A> on Cramer's rule and series reversion </LI>
    <LI> <a href="LambertW30.pdf"> Slides for The Lambert W function: Thirty Years Later  </a>.  Talk given at CUNEF on St Patrick's Day, 2026 </LI> 
  <LI> <a href="https://maple.cloud/app/4819423434506240/Gamma+Function+Talk+at+U.+Cantabria"> Maple worksheet for my talk on the Gamma function at U. Cantabria 2026-03-13 </a> on the Maple Cloud so you should be able to read it even if you don't have Maple.  I expect to be able to cover about 3 sections out of 11 in the worksheet.</LI>
