@@ -5,8 +5,8 @@ I am also on the executive for the <a href="https://carmamaths.org/"> Computer A
 
 
 <hr>
-<H4> The "Perturbation Methods Using Backward Error" 2026 Desk Calendar will be distributed by SIAM early next year (hopefully at the JMM). </H4>
- All images in the calendar were produced in Maple.  <A HREF="CORLESS_SIAM_DeskCalendar_2026_6x3.pdf"> A PDF Version can be found at this link </A>.  The calendar is to help market My New Book with Nic Fillion, <a href="https://epubs.siam.org/doi/abs/10.1137/1.9781611978865">Perturbation Methods using backward error</a> available <b>April 2026</b>.
+<H3> The "Perturbation Methods Using Backward Error" 2026 Desk Calendar was distributed by SIAM early in 2026. </H3>
+ All images in the calendar were produced in Maple.  <A HREF="CORLESS_SIAM_DeskCalendar_2026_6x3.pdf"> A PDF Version can be found at this link </A>.  The calendar is to help market My New Book with Nic Fillion, <a href="https://epubs.siam.org/doi/abs/10.1137/1.9781611978865">Perturbation Methods using backward error</a> available since <b>May 6 2026</b>.
 <!-- <p>
 <A HREF="2024CALENDARCDJ.pdf"> Link to a PDF of the Computational Discovery on Jupyter Calendar 2024 </A>
 </p> -->
@@ -119,7 +119,7 @@ A free Maple Player which can read Maple Worksheets is available at <A HREF="htt
    <LI> <a href="DoubleEigenvalueMathieu.pdf"> Slides for CAIMS/SIAM: Computing Generalized Mathieu Functions </a>.  The supporting Maple workbook <a href="https://maple.cloud/app/5425885989961728/Computation+of+Generalized+Mathieu+Functions"> can be found in a readable form at this link on the Maple Cloud. </a> </LI>
   <LI> <a href="MaxSpreadSymmetricBohemianTalk.pdf"> Slides for November 2025 talk at CUNEF, modified from the earlier ACA 2025 Symbolic Linear Algebra: Maximum Spread of Symmetric Bohemian Matrices </a> </LI>
  <LI> <a href="AnalysisVSAlgebraTalk (4).pdf"> for ACA 2025 History of Computer Algebra: Analysis vs Algebra </a> </LI>
- <LI> <a href="Structured_backward_error_for_the_WKB_method__a_case_study_in_computational_epistemology.pdf"> Talk slides Computational Epistemology and George Green  (1793&ndash;1841) (Dubrovnik, April 2025) </a></LI>
+ <LI> <a href="Structured_backward_error_for_the_WKB_method__a_case_study_in_computational_epistemology.pdf"> Talk slides Computational Epistemology and George Green  (1793&ndash;1841) (Dubrovnik, April 2025) (Revised for SFU, May 2026) </a></LI>
  <LI> <a href="Structured_backward_error_for_the_WKB_method__Geneva_.pdf"> Talk slides Structured Backward Error for WKB (Geneva 2025-04-15) </a></LI>
  <LI> <a href="https://github.com/rcorless/rcorless.github.io/blob/main/Guest%20Lecture%20by%20Rob%20Corless.html"> Guest Lecture notes </a></LI>
  <LI> <a href="https://github.com/rcorless/rcorless.github.io/blob/main/Differential%20Equations%20in%20Maple.html"> Differential Equations in Maple (HTML of a Jupyter Notebook with a Maple kernel) </a> </LI>
