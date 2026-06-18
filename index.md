@@ -112,7 +112,7 @@ A free Maple Player which can read Maple Worksheets is available at <A HREF="htt
 
 
 <OL> 
- <LI> <a href="Structured_backward_error_for_the_WKB_method__CAIMS_2026.pdf"> Slides for Structured Backward Error for WKB (CAIMS June 2026, Regina) </a> </LI>
+ <LI> <a href="Structured_backward_error_for_the_WKB_method__CAIMS_2026.pdf"> Slides for Structured Backward Error for WKB (CAIMS June 2026, Regina) </a> There is a video of this talk on <a href="https://youtu.be/VSX1Zlgr9Po"> my YouTube channeel </a></LI>
     <LI> <a href="SelectionfromForty.pdf"> Slides for Forty Years of Illustration  </a>.  Talk given at the workshop Illustrating Research in Number Theory at the Institut Henri Poincaré </LI>
  <LI> <A href="Series Reversion by Cramer's Rule.html"> Lecture notes for CUNEF 2026-03-18 </A> on Cramer's rule and series reversion </LI>
    <LI> <a href="LambertW30.pdf"> Slides for The Lambert W function: Thirty Years Later  </a>.  Talk given at CUNEF on St Patrick's Day, 2026 </LI> 
