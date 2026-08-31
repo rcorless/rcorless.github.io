@@ -112,6 +112,7 @@ A free Maple Player which can read Maple Worksheets is available at <A HREF="htt
 
 
 <OL> 
+ <LI> <a href="SeriesReversionCramersRule.html"> HTML version of support materials for "Series Reversion by Cramer's Rule" by myself and David Jeffrey. </a> One might instead want <a href="SeriesReversionCramersRule.ipynb"> the Jupyter notebook (Maple kernel) itself </a> </LI>
  <LI> <a href="HybridSNCPersonal.pdf"> Slides for Hybrid Symbolic-Numeric Methods: A Personal View </a>, a talk for the <a href="https://icms-conference.org/2026/"> ICMS conference in Waterloo </a> </LI>
  <LI> <a href="Structured_backward_error_for_the_WKB_method__CAIMS_2026.pdf"> Slides for Structured Backward Error for WKB (CAIMS June 2026, Regina) </a> There is a video of this talk on <a href="https://youtu.be/VSX1Zlgr9Po"> my YouTube channeel </a></LI>
     <LI> <a href="SelectionfromForty.pdf"> Slides for Forty Years of Illustration  </a>.  Talk given at the workshop Illustrating Research in Number Theory at the Institut Henri Poincaré </LI>
